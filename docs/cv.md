@@ -7,6 +7,7 @@
 
 ## Experience
 
+* August 2023 - Present: Part-Time Professor on Master of Data Science, University of Chile.
 * Jul 2021 - Jun 2023 - Present: Research Assistant, FONDECYT 11200290, Chile. [Project: Tracking Social Public Opinion: A Stream-Mining Based Approach](https://www.dcc.uchile.cl/investigacion/fondecyt/fbravo#proyectos_adjudicados). 
 * Jul 2021 - Jun 2023: Researcher Intern, [Millennium Institute for Foundational Research on Data](https://imfd.cl/), Chile. 
 * Jul 2021 - Jun 2023: Researcher Intern, [National Center for Artificial Intelligence](https://cenia.cl/), Chile.
@@ -19,6 +20,7 @@
 
 ## Teaching
 
+* [MDS7202] (Lecturer) Data Science Laboratory (spring 2023), Postgraduate School, Universidad de Chile.
 * [CC6105] (TA) [Statistical Thinking](https://github.com/dccuchile/CC6104) (spring 2022), Department of Computer Science, Universidad de Chile.
 * [CC6204] (TA) [Deep Learning](https://github.com/ivansipiran/CC6204-Deep-Learning) (spring 2022), Department of Computer Science, Universidad de Chile.
 * [CC5205] (TA) [Data Mining](https://github.com/dccuchile/CC5205/) (fall 2022, fall 2023), Department of Computer Science, Universidad de Chile.

@@ -1,6 +1,6 @@
-cd docs/documents/
-sh cv.sh
-cd ../..
+# cd docs/documents/
+# sh cv.sh
+# cd ../..
 mkdocs build
 cp -R site/* .
 rm -Rf site
