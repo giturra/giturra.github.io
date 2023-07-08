@@ -1,0 +1,17 @@
+site_name: Gabriel Iturra-Bocaz
+theme: 
+    name: null
+    custom_dir: 'cinder'
+    colorscheme: github
+    highlightjs: true
+    hljs_languages:
+    - yaml
+
+site_url: https://giturra.cl 
+plugins: []
+site_description: Personal Webpage of Gabriel Iturra-Bocaz
+nav:
+    - Home: index.md
+    - CV: 
+        - 'Web Format': cv.md
+        - 'PDF': 'documents/cv_full.pdf'
