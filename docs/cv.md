@@ -74,7 +74,7 @@
 ## Languages
 
 * Spanish: Native.
-* English: Fluent (B2).
+* English: Fluent (B2), Academic IETLS 6.5/9.0.
 
 ## References
 * [Felipe Bravo-Marquez](https://felipebravom.com/): Assistant Professor, University of Chile.
