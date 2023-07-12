@@ -58,8 +58,10 @@
 * [2023] SIGIR Student Travel Grant to attend the [2023 SIGIR International Conference on Information Retrieval](https://sigir.org/sigir2023/) in Taipei, Taiwan.
 * [2016] Outstading student in 2016.
 
-## Talks
+## Talks and Workshops
 
+* [July 2023] Workshop: Web Scrapping, [The Summer Institutes in Computational Social Science](https://sicss.io/2023/chile/), Santiago, Chile.
+* [July 2023] Workshop: Text Analysis II, [The Summer Institutes in Computational Social Science](https://sicss.io/2023/chile/), Santiago, Chile. 
 * [April 2023] Department of Computer Science, Universidad de Chile. Thesis Talk, entitled RiverText: A Framework for Training and Evaluating Incremental Word Embeddings from Text Data Streams ([slides](slides/thesis.pdf))([video](https://www.youtube.com/watch?v=T0RD3mULe5M&t=260s) in Spanish).
 
 ## Technical Skills
