@@ -1,3 +1,14 @@
+# Curriculum Vitae
+
+## Personal Information
+
+* Full name: Gabriel Emerson Iturra Bocaz
+* Nationality: Chile
+* E-mail: gabrieliturrab at ug.uchile.cl / giturra at dcc.uchile.cl
+* Public Profiles: [personal website](https://giturra.cl/), [IMFD](https://imfd.cl/investigador/gabriel-iturra/), [Google Scholar](https://scholar.google.com/citations?user=emd1wQkAAAAJ&hl=es), [LinkedIn](https://www.linkedin.com/in/giturra/), [GitHub](https://github.com/giturra/), [ResearchGate](https://www.researchgate.net/profile/Gabriel-Iturra-Bocaz), [Semantic Scholar](https://www.semanticscholar.org/author/Gabriel-Iturra-Bocaz/32830698), [Orcid](https://orcid.org/0009-0001-9635-0683), [Twitter](https://twitter.com/g_iturrab).
+* Areas of Interest:  [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Data Stream Mining](https://en.wikipedia.org/wiki/Data_stream_mining), [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+
+
 ## Education
 
 * MSc. Computer Science, University of Chile (Ongoing, 2023)
@@ -85,4 +96,4 @@
 
 Gabriel Iturra-Bocaz
 
-Santiago, Chile July 02, 2023
+Santiago, Chile July 12, 2023
