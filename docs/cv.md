@@ -52,7 +52,7 @@
 
 ## Publications
 
-1. G. Iturra-Bocaz and F. Bravo-Marquez [RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Stream](https://dl.acm.org/doi/10.1145/3539618.3591908). In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '23), July 23--27, 2023, Taipei, Taiwan, doi: 10.1145/3539618.3591908 ([pdf](publications/rivertext.pdf)).
+1. G. Iturra-Bocaz and F. Bravo-Marquez [RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Stream](https://dl.acm.org/doi/10.1145/3539618.3591908). In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '23), July 23--27, 2023, Taipei, Taiwan, doi: 10.1145/3539618.3591908 ([pdf](publications/rivertext.pdf))([poster](documents/rivertext_poster.pdf)).
 
 2. F. Vera, V. D. Cortés, G. Iturra, J. D. Velásquez, P. Maldonado and A. Couve, [Akori: A Tool Based in Eye-Tracking Techniques for Analyzing Web User Behaviour on a Web Site](https://ieeexplore.ieee.org/document/8215722) 2017 IEEE International Conference on Data Mining Workshops (ICDMW), 2017, pp. 635-640, doi: 10.1109/ICDMW.2017.90 ([pdf](publications/akori.pdf)).
 
@@ -67,7 +67,7 @@
 ## Awards
 
 * [2023] SIGIR Student Travel Grant to attend the [2023 SIGIR International Conference on Information Retrieval](https://sigir.org/sigir2023/) in Taipei, Taiwan.
-* [2016] Outstading student in 2016.
+* [2016] Outstading Student in 2016.
 
 ## Talks and Workshops
 
