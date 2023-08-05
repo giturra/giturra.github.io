@@ -48,17 +48,17 @@
 
 ## Short Courses
 
-* [LSSDS](http://lssds.aura-astronomy.org/winter_school/content/2021-la-serena-school-data-science), La Serena School Data Science, 2-13 August, 2021, La Serena ([Certificate of Attendance](documents/certificate_LSSDS2021_estudiantes_Gabriel_Iturra.pdf)).
+* [LSSDS](http://lssds.aura-astronomy.org/winter_school/content/2021-la-serena-school-data-science), La Serena School Data Science, 2-13 August, 2021, La Serena ([Certificate of Attendance](https://giturra.cl/documents/certificate_LSSDS2021_estudiantes_Gabriel_Iturra.pdf)).
 
 ## Publications
 
-1. G. Iturra-Bocaz and F. Bravo-Marquez [RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Stream](https://dl.acm.org/doi/10.1145/3539618.3591908). In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), Taipei, Taiwan. Association for Computing Machinery. Pages 3027–3036. DOI:10.1145/3539618.3591908 ([pdf](publications/rivertext.pdf))([poster](documents/rivertext_poster.pdf)).
+1. G. Iturra-Bocaz and F. Bravo-Marquez [RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Stream](https://dl.acm.org/doi/10.1145/3539618.3591908). In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), Taipei, Taiwan. Association for Computing Machinery. Pages 3027–3036. DOI:10.1145/3539618.3591908 ([pdf](https://giturra.cl/publications/rivertext.pdf))([poster](https://giturra.cl/documents/rivertext_poster.pdf)).
 
-2. F. Vera, V. D. Cortés, G. Iturra, J. D. Velásquez, P. Maldonado and A. Couve, [Akori: A Tool Based in Eye-Tracking Techniques for Analyzing Web User Behaviour on a Web Site](https://ieeexplore.ieee.org/document/8215722) 2017 IEEE International Conference on Data Mining Workshops (ICDMW), 2017, pp. 635-640, doi: 10.1109/ICDMW.2017.90 ([pdf](publications/akori.pdf)).
+2. F. Vera, V. D. Cortés, G. Iturra, J. D. Velásquez, P. Maldonado and A. Couve, [Akori: A Tool Based in Eye-Tracking Techniques for Analyzing Web User Behaviour on a Web Site](https://ieeexplore.ieee.org/document/8215722) 2017 IEEE International Conference on Data Mining Workshops (ICDMW), 2017, pp. 635-640, doi: 10.1109/ICDMW.2017.90 ([pdf](https://giturra.cl/publications/akori.pdf)).
 
 ## Thesis
 
-1. Master's Thesis (first five pages in Spanish): RiverText A framework for training and evaluating Incremental Word Embeddings from Text Data Streams ([pdf](documents/thesis.pdf)).
+1. Master's Thesis (first five pages in Spanish): RiverText A framework for training and evaluating Incremental Word Embeddings from Text Data Streams ([pdf](https://giturra.cl/documents/thesis.pdf)).
 
 ## Projects
 
@@ -71,10 +71,10 @@
 
 ## Talks and Workshops
 
-* [July 2023] Paper Presentation entitled: RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Streams, [The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval](https://sigir.org/sigir2023/), Taipei, Taiwan ([Certificate of Attendance](documents/SIGIR-Participation-Certificate.pdf)).
+* [July 2023] Paper Presentation entitled: RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Streams, [The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval](https://sigir.org/sigir2023/), Taipei, Taiwan ([Certificate of Attendance](https://giturra.cl/documents/SIGIR-Participation-Certificate.pdf)).
 * [July 2023] Workshop: Web Scrapping, [The Summer Institutes in Computational Social Science](https://sicss.io/2023/chile/), Santiago, Chile.
 * [July 2023] Workshop: Text Analysis II, [The Summer Institutes in Computational Social Science](https://sicss.io/2023/chile/), Santiago, Chile. 
-* [April 2023] Department of Computer Science, Universidad de Chile. Thesis Talk, entitled RiverText: A Framework for Training and Evaluating Incremental Word Embeddings from Text Data Streams ([slides](slides/thesis.pdf))([video](https://www.youtube.com/watch?v=T0RD3mULe5M&t=260s) in Spanish).
+* [April 2023] Department of Computer Science, Universidad de Chile. Thesis Talk, entitled RiverText: A Framework for Training and Evaluating Incremental Word Embeddings from Text Data Streams ([slides](https://giturra.cl/slides/thesis.pdf))([video](https://www.youtube.com/watch?v=T0RD3mULe5M&t=260s) in Spanish).
 
 ## Technical Skills
 
