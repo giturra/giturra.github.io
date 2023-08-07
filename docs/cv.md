@@ -11,8 +11,8 @@
 
 ## Education
 
-* MSc. Computer Science, University of Chile (Ongoing, 2023)
-* Computer Science Engineer, University of Chile (Ongoing, 2023)
+* MSc. Computer Science, University of Chile (2023)
+* Computer Science Engineer, University of Chile (2022)
 * BSc. Computer Science, University of Chile (2020)
 * BSc. in Industrial Engineering, University of Chile (2019)
 
