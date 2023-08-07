@@ -31,19 +31,19 @@
 
 ## Teaching
 
-* [MDS7202] (Lecturer) Data Science Laboratory (spring 2023), Postgraduate School, Universidad de Chile.
+* [MDS7202] (Lecturer) [Data Science Laboratory](https://github.com/MDS7202/MDS7202/) (spring 2023), Postgraduate School, Universidad de Chile.
 * [CC6105] (TA) [Statistical Thinking](https://github.com/dccuchile/CC6104) (spring 2022), Department of Computer Science, Universidad de Chile.
 * [CC6204] (TA) [Deep Learning](https://github.com/ivansipiran/CC6204-Deep-Learning) (spring 2022), Department of Computer Science, Universidad de Chile.
 * [CC5205] (TA) [Data Mining](https://github.com/dccuchile/CC5205/) (fall 2022, fall 2023), Department of Computer Science, Universidad de Chile.
 * [CC6205] (TA) [Natural Language Processing](https://github.com/dccuchile/CC6205) (fall 2022, fall 2023), Department of Computer Science, Universidad de Chile.
-* [CC7910] (TA) Research in Computer Science (Methods, Techniques, Perspectives) (spring 2021, fall-spring 2022, fall 2023), Department of Computer Science, Universidad de Chile.
+* [CC7910] (TA) Research in Computer Science (Methods, Techniques, Perspectives) (spring 2021, fall 2022, spring 2022, fall 2023), Department of Computer Science, Universidad de Chile.
 * [IN6534] (TA) Introduction to Deep Learning (spring 2021), Department of Industrial Engineering, Universidad de Chile.
-* [CC4102] (TA) Algorithm Design and Analysis (spring 2020, fall-spring 2022, fall 2023), Department of Computer Science, Universidad de Chile.
+* [CC4102] (TA) Algorithm Design and Analysis (spring 2020, fall 2022, spring 2022, fall 2023), Department of Computer Science, Universidad de Chile.
 * [CC4101] (TA) Programming Languages (spring 2020), Department of Computer Science, Universidad de Chile.
 * [CC5401] (TA) Software Engineering II (fall 2020), Department of Computer Science, Universidad de Chile.
-* [CC3201] (TA) Databases (fall-spring 2019), Department of Computer Science, Universidad de Chile.
+* [CC3201] (TA) Databases (fall 2019, spring 2019), Department of Computer Science, Universidad de Chile.
 * [IQ5412] (TA) Process Modeling and Simulation (spring 2018), Department of Chemical Engineering and Biotechnology, Universidad de Chile.
-* [CC5002] (TA) Web Application Development (spring 2017, fall-spring 2018, fall-spring 2019, fall-spring 2020, fall-spring 2021), Department of Computer Science, Universidad de Chile.
+* [CC5002] (TA) Web Application Development (spring 2017, fall 2018, spring 2018, fall 2019, spring 2019, fall 2020,spring 2020, fall 2021, spring 2021), Department of Computer Science, Universidad de Chile.
 * [MA2601] (TA) Ordinary differential equations (fall 2016), Department of Mathematical Engineering, Universidad de Chile.
 
 ## Short Courses
@@ -97,4 +97,4 @@
 
 Gabriel Iturra-Bocaz
 
-Santiago, Chile July 12, 2023
+Santiago, Chile August 7, 2023
