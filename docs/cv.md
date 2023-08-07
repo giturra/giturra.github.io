@@ -91,9 +91,8 @@
 * English: Fluent (B2), Academic IETLS 6.5/9.0.
 
 ## References
-* [Felipe Bravo-Marquez](https://felipebravom.com/): Assistant Professor, University of Chile.
-* [Claudio Gutierrez](https://www.dcc.uchile.cl/nosotros/academico/cgutierrez): Full Professor, University of Chile.
-* [Jose Urzua](https://jose.cl/): Head of Systems Development at NIC Chile and Part Time Professor at University of Chile.
+* [Felipe Bravo-Marquez](https://felipebravom.com/): Assistant Professor, University of Chile. Contact: fbravo at dcc.uchile.cl
+* [Claudio Gutierrez](https://www.dcc.uchile.cl/nosotros/academico/cgutierrez): Full Professor, University of Chile. Contact: cgutierr at dcc.uchile.cl
 
 Gabriel Iturra-Bocaz
 
