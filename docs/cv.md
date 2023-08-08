@@ -32,6 +32,7 @@
 ## Teaching
 
 * [MDS7202] (Lecturer) [Data Science Laboratory](https://github.com/MDS7202/MDS7202/) (spring 2023), Postgraduate School, Universidad de Chile.
+* [CC5402] (TA) Software Project (spring 2023), Department of Computer Science, Universidad de Chile.
 * [CC6105] (TA) [Statistical Thinking](https://github.com/dccuchile/CC6104) (spring 2022), Department of Computer Science, Universidad de Chile.
 * [CC6204] (TA) [Deep Learning](https://github.com/ivansipiran/CC6204-Deep-Learning) (spring 2022), Department of Computer Science, Universidad de Chile.
 * [CC5205] (TA) [Data Mining](https://github.com/dccuchile/CC5205/) (fall 2022, fall 2023), Department of Computer Science, Universidad de Chile.
