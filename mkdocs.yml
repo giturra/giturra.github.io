@@ -12,6 +12,7 @@ plugins: []
 site_description: Personal Webpage of Gabriel Iturra-Bocaz
 nav:
     - Home: index.md
+    - Bio: bio.md
     - CV: 
         - 'Web Format': cv.md
         - 'PDF': 'documents/cv_full.pdf'
