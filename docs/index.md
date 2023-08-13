@@ -6,12 +6,12 @@
 
 Hello!
 
-I am Gabriel. I am currently working on my master’s thesis on Incremental Text Representation under the 
-supervision of [Felipe Bravo-Marquez](https://felipebravom.com) at University of Chile.
+I am Gabriel, holding a Master's degree in Computer Science from the Department of Computer Science at the University of Chile. My thesis focused on the study and implementation of incremental text representation under the supervision of Professor [Felipe Bravo-Marquez](https://felipebravom.com).
 
-I am member of the [ReLeLa](https://relela.com/) research group at [DCC UChile](https://www.dcc.uchile.cl/) and my research interests include Incremental Learning, Natural Language Processing and Data Streams.
+Currently, I am an active member of the ReLeLa research group at DCC UChile. My research interests encompass Incremental Learning, Natural Language Processing, and Data Streams.
 
-Besides research I really enjoy teaching. On my spare time I enjoy from doing exercises and learning new things from books and videos.
+Beyond my research pursuits, I find joy in teaching. During my leisure time, I engage in physical exercise and indulge my curiosity by exploring new subjects through books and videos.
+
 
 ## Research Areas
 
