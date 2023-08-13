@@ -24,9 +24,9 @@
 
 
 
-* MSc. Computer Science, University of Chile (Ongoing, 2023)
+* MSc. Computer Science, University of Chile (2023)
 
-* Computer Science Engineer, University of Chile (Ongoing, 2023)
+* Computer Science Engineer, University of Chile (2021)
 
 * BSc. Computer Science, University of Chile (2020)
 
@@ -65,6 +65,8 @@
 
 
 * [MDS7202] (Lecturer) [Data Science Laboratory](https://github.com/MDS7202/MDS7202/) (spring 2023), Postgraduate School, Universidad de Chile.
+
+* [CC5402] (TA) Software Project (spring 2023), Department of Computer Science, Universidad de Chile.
 
 * [CC6105] (TA) [Statistical Thinking](https://github.com/dccuchile/CC6104) (spring 2022), Department of Computer Science, Universidad de Chile.
 
