@@ -8,14 +8,6 @@
 * Public Profiles: [personal website](https://giturra.cl/), [IMFD](https://imfd.cl/investigador/gabriel-iturra/), [Google Scholar](https://scholar.google.com/citations?user=emd1wQkAAAAJ&hl=es), [LinkedIn](https://www.linkedin.com/in/giturra/), [GitHub](https://github.com/giturra/), [ResearchGate](https://www.researchgate.net/profile/Gabriel-Iturra-Bocaz), [Semantic Scholar](https://www.semanticscholar.org/author/Gabriel-Iturra-Bocaz/32830698), [Orcid](https://orcid.org/0009-0001-9635-0683), [Twitter](https://twitter.com/g_iturrab).
 * Areas of Interest:  [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Data Stream Mining](https://en.wikipedia.org/wiki/Data_stream_mining), [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
-## Postgraduate Project
-
-Gabriel Iturra-Bocaz holds a Master's degree in Computer Science from the Department of Computer Science (DCC) at the University of Chile. His primary area of expertise is Machine Learning, with a notable emphasis on Natural Language Processing (NLP), Continual Learning, and Stream Data Mining.
-
-His thesis, titled "RiverText: A Framework for Training and Evaluating Incremental Word Embeddings from Text Data Streams," delves into the in-depth study and implementation of algorithms for text representation within the Continual Learning paradigm. Notably, this research involved analyzing tweet streams from the Twitter API, enhancing his understanding of real-time data dynamics.
-
-Gabriel's remarkable achievements include the publication of an article based on his work at the SIGIR 2023 conference. Beyond this, he has pioneered the development of an open-source library (https://dccuchile.github.io/rivertext/) that faithfully replicates his research findings. This dynamic library continues to thrive, consistently incorporating new features and engaging an ever-growing user community.
-
 
 ## Education
 
