@@ -74,6 +74,7 @@
 
 ## Talks and Workshops
 
+* [September 2023] Poster presentation RiverText: A Framework for Training and Evaluating Incremental Word Embeddings from Text Data Streams, The first Postgraduate Symposium at the Faculty of Math and Physics Sciences from the University of Chile.
 * [July 2023] Paper Presentation entitled: RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Streams, [The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval](https://sigir.org/sigir2023/), Taipei, Taiwan ([Certificate of Attendance](https://giturra.cl/documents/SIGIR-Participation-Certificate.pdf)).
 * [July 2023] Workshop: Web Scrapping, [The Summer Institutes in Computational Social Science](https://sicss.io/2023/chile/), Santiago, Chile.
 * [July 2023] Workshop: Text Analysis II, [The Summer Institutes in Computational Social Science](https://sicss.io/2023/chile/), Santiago, Chile. 
@@ -99,4 +100,4 @@
 
 Gabriel Iturra-Bocaz
 
-Santiago, Chile August 7, 2023
+Santiago, Chile September 9, 2023
