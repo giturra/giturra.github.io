@@ -66,6 +66,7 @@
 ## Projects
 
 1. [RiverText](https://github.com/dccuchile/rivertext): A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Streams (as main developer).
+2. [MDS7202](https://github.com/MDS7202/MDS7202/) Official repository from the course Data Science Laboratory at the Data Science Master Program at the University of Chile (as lecturer).
 
 ## Awards
 
