@@ -31,7 +31,9 @@
 
 ## Teaching
 
+
 * [MDS7202] (Lecturer) [Data Science Laboratory](https://github.com/MDS7202/MDS7202/) (spring 2023), Postgraduate School, Universidad de Chile.
+* [CC66S] (Teaching Assistant) Machine Learning (Spring 2023), , Continual Education Program,  Department of Computer Science, Universidad de Chile.
 * [CC66Q] (TA) Natural Language Processing (spring 2023),  Department of Computer Science, Universidad de Chile.
 * [DEDCCPYAC02] (TA) Data Management and Data Mining in Python (spring 2023), Continual Education Program,  Department of Computer Science, Universidad de Chile.
 * [CC5402] (TA) Software Project (spring 2023), Department of Computer Science, Universidad de Chile.
