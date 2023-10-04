@@ -63,7 +63,7 @@
 
 ## Thesis
 
-1. Master's Thesis (first five pages in Spanish): RiverText A framework for training and evaluating Incremental Word Embeddings from Text Data Streams ([pdf](https://giturra.cl/documents/thesis.pdf)).
+1. Master's Thesis (first five pages in Spanish): RiverText A framework for training and evaluating Incremental Word Embeddings from Text Data Streams ([pdf](https://giturra.cl/documents/master-thesis.pdf)).
 
 ## Projects
 
