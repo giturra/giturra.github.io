@@ -86,9 +86,7 @@
 ## Technical Skills
 
 * Programming Languages: Python, Java, C/C++, R, PHP, JavaScript.
-
 * Especial Frameworks: PyTorch, TensorFlow, Django, Springs Boots, React and React Native.
-
 * Databases: PostgreSQL, MySQL and MongoDB.
 
 
