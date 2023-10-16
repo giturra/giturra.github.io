@@ -64,7 +64,15 @@
 
 
 
+
+
 * [MDS7202] (Lecturer) [Data Science Laboratory](https://github.com/MDS7202/MDS7202/) (spring 2023), Postgraduate School, Universidad de Chile.
+
+* [CC66S] (TA) Machine Learning (Spring 2023), Continual Education Program,  Department of Computer Science, Universidad de Chile.
+
+* [CC66Q] (TA) Natural Language Processing (spring 2023),  Department of Computer Science, Universidad de Chile.
+
+* [DEDCCPYAC02] (TA) Data Management and Data Mining in Python (spring 2023), Continual Education Program,  Department of Computer Science, Universidad de Chile.
 
 * [CC5402] (TA) Software Project (spring 2023), Department of Computer Science, Universidad de Chile.
 
@@ -120,7 +128,7 @@
 
 
 
-1. Master's Thesis (first five pages in Spanish): RiverText A framework for training and evaluating Incremental Word Embeddings from Text Data Streams ([pdf](https://giturra.cl/documents/thesis.pdf)).
+1. Master's Thesis (first five pages in Spanish): RiverText A framework for training and evaluating Incremental Word Embeddings from Text Data Streams ([pdf](https://giturra.cl/documents/master-thesis.pdf)).
 
 
 
@@ -129,6 +137,8 @@
 
 
 1. [RiverText](https://github.com/dccuchile/rivertext): A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Streams (as main developer).
+
+2. [MDS7202](https://github.com/MDS7202/MDS7202/) Official repository from the course Data Science Laboratory at the Data Science Master Program at the University of Chile (as lecturer).
 
 
 
@@ -146,6 +156,8 @@
 
 
 
+* [September 2023] Poster presentation RiverText: A Framework for Training and Evaluating Incremental Word Embeddings from Text Data Streams, The first Postgraduate Symposium at the Faculty of Math and Physics Sciences from the University of Chile, Santiago, Chile ([Certificate of Attendance](https://giturra.cl/documents/FCFM-Participate-Certificate.pdf)).
+
 * [July 2023] Paper Presentation entitled: RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Streams, [The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval](https://sigir.org/sigir2023/), Taipei, Taiwan ([Certificate of Attendance](https://giturra.cl/documents/SIGIR-Participation-Certificate.pdf)).
 
 * [July 2023] Workshop: Web Scrapping, [The Summer Institutes in Computational Social Science](https://sicss.io/2023/chile/), Santiago, Chile.
@@ -162,11 +174,7 @@
 
 * Programming Languages: Python, Java, C/C++, R, PHP, JavaScript.
 
-
-
 * Especial Frameworks: PyTorch, TensorFlow, Django, Springs Boots, React and React Native.
-
-
 
 * Databases: PostgreSQL, MySQL and MongoDB.
 
@@ -196,5 +204,5 @@ Gabriel Iturra-Bocaz
 
 
 
-Santiago, Chile August 7, 2023
+Santiago, Chile September 9, 2023
 
