@@ -4,19 +4,22 @@
 
 ## Biography
 
-Hello! 
 
-I am Gabriel, and I have a Master's degree in Computer Science from the [Department of Computer Science](https://www.dcc.uchile.cl/) at the University of Chile. My thesis focused on the study and implementation of incremental text representation under the supervision of Professor [Felipe Bravo-Marquez](https://felipebravom.com). 
+Hello!
 
-I work as a part-time professor for the Data Science Laboratory course at the [University of Chile](https://uchile.cl/). I am an active member of the [ReLeLa](https://relela.com/) research group at DCC UChile. My research interests encompass Incremental Learning, Natural Language Processing, and Data Streams. 
+I am Gabriel, and I hold a Master's degree in Computer Science from the [Department of Computer Science](https://www.dcc.uchile.cl/) at the University of Chile. My thesis focused on the study and implementation of incremental text representation under the supervision of Professor [Felipe Bravo-Marquez](https://felipebravom.com).
 
-During my leisure time, I exercise physically, especially biking, and indulge my curiosity by exploring new subjects through books and videos.
+I work as a part-time professor for the Data Science Laboratory course at the University of Chile. Additionally, I am an active member of the [ReLeLa](https://relela.com/) research group at DCC UChile. My research interests encompass Natural Language Processing, Large Language Models, and Data Streams. Currently, I am actively seeking PhD opportunities.
+
+In my leisure time, I engage in physical exercise, especially biking, and I satisfy my curiosity by exploring new subjects through books and videos
+
 
 ## Research Areas
 
 I specialize in the extraction of knowledge and information from unstructured data, with a focus on natural language text and streaming learning. My research interests encompass several interrelated fields in this domain.
 
 * [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
+* [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model)
 * [Data Stream Mining](https://en.wikipedia.org/wiki/Data_stream_mining)
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
@@ -38,4 +41,4 @@ I specialize in the extraction of knowledge and information from unstructured da
 * [Twitter](https://twitter.com/g_iturrab)
 * [LinkedIn](https://www.linkedin.com/in/giturra/)
 
-Last Updated August 12th, 2023
+Last Updated October 19th, 2023
