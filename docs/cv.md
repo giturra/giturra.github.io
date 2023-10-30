@@ -83,6 +83,10 @@
 * [July 2023] Workshop: Text Analysis II, [The Summer Institutes in Computational Social Science](https://sicss.io/2023/chile/), Santiago, Chile. 
 * [April 2023] Department of Computer Science, Universidad de Chile. Thesis Talk, entitled RiverText: A Framework for Training and Evaluating Incremental Word Embeddings from Text Data Streams ([slides](https://giturra.cl/slides/thesis.pdf))([video](https://www.youtube.com/watch?v=T0RD3mULe5M&t=260s) in Spanish).
 
+## Media Outreach
+
+* [Revista Bits N° 25: Inteligencia Artificial Generativa, Estudiantes, página 63](https://www.dcc.uchile.cl/media/bits/pdfs/bits25.59-estudiantes-dcc_j5qXyJ3.pdf).
+
 ## Technical Skills
 
 * Programming Languages: Python, Java, C/C++, R, PHP, JavaScript.
