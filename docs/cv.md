@@ -34,7 +34,7 @@
 
 * [MDS7202] (Lecturer) [Data Science Laboratory](https://github.com/MDS7202/MDS7202/) (spring 2023), Postgraduate School, Universidad de Chile.
 * [CC66S] (TA) Machine Learning (Spring 2023), Continual Education Program,  Department of Computer Science, Universidad de Chile.
-* [CC66Q] (TA) Natural Language Processing (spring 2023),  Department of Computer Science, Universidad de Chile.
+* [CC66Q] (TA) [Natural Language Processing](https://github.com/fvillena/dcc-ia-nlp) (spring 2023),  Department of Computer Science, Universidad de Chile.
 * [DEDCCPYAC02] (TA) Data Management and Data Mining in Python (spring 2023), Continual Education Program,  Department of Computer Science, Universidad de Chile.
 * [CC5402] (TA) Software Project (spring 2023), Department of Computer Science, Universidad de Chile.
 * [CC6105] (TA) [Statistical Thinking](https://github.com/dccuchile/CC6104) (spring 2022), Department of Computer Science, Universidad de Chile.
@@ -69,6 +69,7 @@
 
 1. [RiverText](https://github.com/dccuchile/rivertext): A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Streams (as main developer).
 2. [MDS7202](https://github.com/MDS7202/MDS7202/) Official repository from the course Data Science Laboratory at the Data Science Master Program at the University of Chile (as lecturer).
+3. [CC66Q](https://github.com/fvillena/dcc-ia-nlp) Official repository for the Natural Language Processing module in the Artificial Intelligence Diploma Program at the University of Chile (as Teaching Assistant).
 
 ## Awards
 
