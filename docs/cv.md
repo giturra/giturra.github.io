@@ -102,7 +102,7 @@ I am deeply interested in understanding how AI models can process and represent 
 ## Languages
 
 * Spanish: Native.
-* English: Fluent (B2), Academic IETLS 6.5/9.0.
+* English: Advance (B2), Academic IETLS 6.5/9.0.
 
 ## References
 * [Felipe Bravo-Marquez](https://felipebravom.com/): Assistant Professor, University of Chile. Contact: fbravo at dcc.uchile.cl
