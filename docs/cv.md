@@ -10,7 +10,7 @@
 
 ## Short Bio
 
-Large Language Models (LLMs) are significant deep learning models trained on massive corpora of text. These models have revolutionized the field of Natural Language Processing (NLP) with their ability to accurately solve various NLP tasks, such as sentiment analysis, text classification, and text summarization. These breakthroughs have prompted questions about whether these models can learn new tasks without retraining with new data, or if the vast amount of data they were trained on has unveiled a new characteristic in AI models: the ability to reason. However, despite their revolutionary breakthroughs, LLMs lack the ability to solve planning tasks—a capability highly desired by Autonomous Agents. This gap is why I am deeply interested in approaches that enhance the planning abilities of autonomous agents using the semantic knowledge that LLMs can provide. During my master's degree, I developed RiverText, a framework for training and evaluating word embeddings from text data streams. This framework utilizes multiple methods and algorithms to incrementally represent word embeddings based on the distributional hypothesis. My work received international recognition, being accepted at the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '23) in Taipei, Taiwan. Currently, I serve as a part-time professor in the Master of Data Science program at the University of Chile, where we delve into the most crucial aspects of Machine Learning and Data Mining. I am also actively pursuing PhD opportunities to delve deeper into the potential of Large Language Models. My goal is to improve their prompting engineering capabilities, expand their functionalities with Reinforcement Learning methods, and leverage their capabilities across various disciplines.
+Large Language Models (LLMs) are significant deep learning models trained on vast corpora of text. These models have revolutionized the field of Natural Language Processing (NLP) with their ability to accurately perform various NLP tasks, such as sentiment analysis, text classification, and text summarization. These advances have raised questions about whether these models could enhance code generation within developers’ workflows, particularly during critical events in the development stage. However, despite their groundbreaking advancements, LLMs do not adequately assess how models are perceived by humans. This oversight is why I am deeply interested in approaches that improve code generation using the semantic knowledge that LLMs can provide. During my master's degree, I developed RiverText, a framework for training and evaluating word embeddings from streaming text data. This framework employs multiple methods and algorithms to incrementally represent word embeddings based on the distributional hypothesis. My work received international recognition, being accepted at the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '23) in Taipei, Taiwan. I currently serve as a part-time professor in the Master of Data Science program at the University of Chile, where we explore the most critical aspects of Machine Learning and Data Mining. I am actively seeking Ph.D. opportunities to further explore the potential of Large Language Models, aiming to enhance their prompting engineering capabilities, broaden their applications in Software Engineering, and leverage their capabilities across various disciplines.
 
 ## Education
 
@@ -104,9 +104,16 @@ Large Language Models (LLMs) are significant deep learning models trained on mas
 * English: Advance (B2), Academic IETLS 6.5/9.0.
 
 ## References
-* [Felipe Bravo-Marquez](https://felipebravom.com/): Assistant Professor, University of Chile. Contact: fbravo at dcc.uchile.cl
-* [Claudio Gutierrez](https://www.dcc.uchile.cl/nosotros/academico/cgutierrez): Full Professor, University of Chile. Contact: cgutierr at dcc.uchile.cl
+* [Felipe Bravo-Marquez](https://felipebravom.com/): 
+    * Assistant Professor, University of Chile. 
+    * Contact: fbravo at dcc.uchile.cl
+* [Claudio Gutierrez](https://www.dcc.uchile.cl/nosotros/academico/cgutierrez): 
+    * Full Professor, University of Chile. 
+    * Contact: cgutierr at dcc.uchile.cl
+* [Andres Abeliuk](https://aabeliuk.github.io/): 
+    * Assitant Professor, University of Chile.
+    * Contact: aabeliuk at dcc.uchile.cl
 
 Gabriel Iturra-Bocaz
 
-Santiago, Chile September 9, 2023
+Santiago, Chile November 22, 2023
