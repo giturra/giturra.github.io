@@ -9,7 +9,7 @@ Hello!
 
 I am Gabriel, and I hold a Master's degree in Computer Science from the [Department of Computer Science](https://www.dcc.uchile.cl/) at the University of Chile. My thesis focused on the study and implementation of incremental text representation under the supervision of Professor [Felipe Bravo-Marquez](https://felipebravom.com).
 
-I work as a part-time professor for the Data Science Laboratory course at the University of Chile. Additionally, I am an active member of the [ReLeLa](https://relela.com/) research group at DCC UChile. My research interests encompass Natural Language Processing, Large Language Models, and Data Streams. Currently, I am actively seeking PhD opportunities.
+I work as a part-time professor for the Data Science Laboratory course at the University of Chile. Additionally, I am an active member of the [ReLeLa](https://relela.com/) research group at DCC UChile. My research interests encompass Natural Language Processing, Large Language Models, and Data Streams. 
 
 In my leisure time, I engage in physical exercise, especially biking, and I satisfy my curiosity by exploring new subjects through books and videos
 
