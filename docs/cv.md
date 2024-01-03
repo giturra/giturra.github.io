@@ -10,7 +10,7 @@
 
 ## Short Bio
 
-Large Language Models (LLMs) are advanced deep learning models trained on vast corpora of text. They have revolutionized the field of Natural Language Processing (NLP) with their ability to accurately perform various NLP tasks, such as sentiment analysis, text classification, and text summarization. These advances raise questions about the potential of these models to enhance the protection of the information systems we use daily. However, despite their groundbreaking advancements, LLMs still face limitations in assessing how models are perceived by humans. This gap is precisely why I am deeply interested in developing approaches that leverage the semantic knowledge provided by LLMs to improve the safety of cybersecurity systems. During my master's degree, I developed RiverText, a framework for training and evaluating word embeddings from streaming text data. This framework employs multiple methods and algorithms to incrementally represent word embeddings based on the distributional hypothesis. My work received international recognition, being accepted at the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '23) in Taipei, Taiwan. I currently serve as a part-time professor in the Master of Data Science program at the University of Chile, where we explore the most critical aspects of Machine Learning and Data Mining. I am actively seeking Ph.D. opportunities to further explore the potential of Large Language Models, aiming to enhance their prompting engineering capabilities, broaden their applications in Software Engineering, and leverage their capabilities across various disciplines.
+Large Language Models (LLMs) are significant deep learning models trained on vast corpora of text. These models have revolutionized the field of Natural Language Processing (NLP) with their ability to accurately perform various NLP tasks, such as sentiment analysis, text classification, and text summarization. These advances have raised questions about whether these models could enhance the resolution in planning tasks using the reasoning knowledge that LLMs can provide. However, despite their groundbreaking advancements, it is not clear how to integrate the semantic knowledge into autonomous agents. This oversight is why I am deeply interested in approaches that improve planning and grounded tasks using the semantic knowledge that LLMs can provide. During my master’s degree, I developed RiverText, a framework for training and evaluating word embeddings from streaming text data. This framework employs multiple methods and algorithms to incrementally represent word embeddings based on the distributional hypothesis. My work received international recognition, being accepted at the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’23) in Taipei, Taiwan. I currently serve as a part-time professor in the Master of Data Science program at the University of Chile, where we explore the most critical aspects of Machine Learning and Data Mining. I am actively seeking Ph.D. opportunities to further explore the potential of Large Language Models, aiming to enhance their prompting engineering capabilities, broaden their applications in Robotics, and leverage their capabilities across various disciplines.
 
 ## Education
 
@@ -21,7 +21,7 @@ Large Language Models (LLMs) are advanced deep learning models trained on vast c
 
 ## Experience
 
-* August 2023 - Present: Part-Time Professor on Master of Data Science, University of Chile.
+* August 2023 - December 2023: Part-Time Professor on [Master of Data Science](https://mds.uchile.cl/), University of Chile.
 * Jul 2021 - Jun 2023 - Present: Research Assistant, FONDECYT 11200290, Chile. [Project: Tracking Social Public Opinion: A Stream-Mining Based Approach](https://www.dcc.uchile.cl/investigacion/fondecyt/fbravo#proyectos_adjudicados). 
 * Jul 2021 - Jun 2023: Researcher Intern, [Millennium Institute for Foundational Research on Data](https://imfd.cl/), Chile. 
 * Jul 2021 - Jun 2023: Researcher Intern, [National Center for Artificial Intelligence](https://cenia.cl/), Chile.
@@ -116,4 +116,4 @@ Large Language Models (LLMs) are advanced deep learning models trained on vast c
 
 Gabriel Iturra-Bocaz
 
-Santiago, Chile November 22, 2023
+Santiago, Chile January 03, 2024
