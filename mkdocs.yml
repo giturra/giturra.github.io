@@ -16,3 +16,4 @@ nav:
     - CV: 
         - 'Web Format': cv.md
         - 'PDF': 'documents/cv_full.pdf'
+    - Blog: blog.md
