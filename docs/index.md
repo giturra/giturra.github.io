@@ -1,6 +1,6 @@
 # Hi there 👌 I'm Gabriel Iturra-Bocaz
 
-<img src="img/me2.jpg" alt="alt text" width="30%" height="30%"> 
+<img src="img/me3.jpg" alt="alt text" width="30%" height="30%"> 
 
 ## Biography
 
@@ -41,4 +41,4 @@ I specialize in the extraction of knowledge and information from unstructured da
 * [Twitter](https://twitter.com/g_iturrab)
 * [LinkedIn](https://www.linkedin.com/in/giturra/)
 
-Last Updated October 18, January.
+Last Updated January 18, 2024.
