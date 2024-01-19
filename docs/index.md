@@ -7,9 +7,9 @@
 
 Hello!
 
-I am Gabriel, and I hold a Master's degree in Computer Science from the [Department of Computer Science](https://www.dcc.uchile.cl/) at the University of Chile. My thesis focused on the study and implementation of incremental text representation under the supervision of Professor [Felipe Bravo-Marquez](https://felipebravom.com).
+I am Gabriel, and I hold a Master's degree in Computer Science from the [Department of Computer Science](https://www.dcc.uchile.cl/) at the University of Chile. My thesis focused on the study and implementation of incremental text representations under the supervision of Professor [Felipe Bravo-Marquez](https://felipebravom.com).
 
-I work as a part-time professor for the Data Science Laboratory course at the University of Chile. Additionally, I am an active member of the [ReLeLa](https://relela.com/) research group at DCC UChile. My research interests encompass Natural Language Processing, Large Language Models, and Data Streams. 
+Currently, I am working as a Machine Learning Engineer at Replai SpA, a Chilean startup that seeks to revolutionize the way meta-search engines work in specific domains, including law and healthcare. My research interests encompass Natural Language Processing, Large Language Models, and Data Streams. 
 
 In my leisure time, I engage in physical exercise, especially biking, and I satisfy my curiosity by exploring new subjects through books and videos
 
@@ -26,8 +26,8 @@ I specialize in the extraction of knowledge and information from unstructured da
 
 ## Contact
 
-*  Address: Department of Computer Science - University of Chile. 
-*  Email : gabrieliturrab at ug.uchile.cl
+* Personal email: g.iturra.bocaz at gmail.com
+* Work email: gabriel at replai.cl
 
 
 ## Other Profiles
@@ -41,4 +41,4 @@ I specialize in the extraction of knowledge and information from unstructured da
 * [Twitter](https://twitter.com/g_iturrab)
 * [LinkedIn](https://www.linkedin.com/in/giturra/)
 
-Last Updated October 19th, 2023
+Last Updated October 18, January.
