@@ -8,10 +8,12 @@
 * Public Profiles: [personal website](https://giturra.cl/), [IMFD](https://imfd.cl/investigador/gabriel-iturra/), [Google Scholar](https://scholar.google.com/citations?user=emd1wQkAAAAJ&hl=es), [LinkedIn](https://www.linkedin.com/in/giturra/), [GitHub](https://github.com/giturra/), [ResearchGate](https://www.researchgate.net/profile/Gabriel-Iturra-Bocaz), [Semantic Scholar](https://www.semanticscholar.org/author/Gabriel-Iturra-Bocaz/32830698), [Orcid](https://orcid.org/0009-0001-9635-0683), [Twitter](https://twitter.com/g_iturrab).
 * Areas of Interest:  [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model), [Data Stream Mining](https://en.wikipedia.org/wiki/Data_stream_mining), [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
+<!--
+
 ## Short Bio
 
 Large Language Models (LLMs) are significant deep learning models trained on vast corpora of text. These models have revolutionized the field of Natural Language Processing (NLP) with their ability to accurately perform various NLP tasks, such as sentiment analysis, text classification, and text summarization. These advances have raised questions about whether these models have reasoning capabilities for solving tasks like Arithmetic Reasoning or Commonsense Reasoning. However, despite their groundbreaking advancements, these models are prone to hallucination, a phenomenon where these models invent or change information. This oversight is why I am deeply interested in approaches that improve planning and grounded tasks using the semantic knowledge that LLMs can provide. During my master’s degree, I developed RiverText, a framework for training and evaluating word embeddings from streaming text data. This framework employs multiple methods and algorithms to incrementally represent word embeddings based on the distributional hypothesis. My work received international recognition, being accepted at the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’23) in Taipei, Taiwan. I currently serve as a part-time professor in the Master of Data Science program at the University of Chile, where we explore the most critical aspects of Machine Learning and Data Mining. I am actively seeking Ph.D. opportunities to further explore the potential of Large Language Models, aiming to enhance their prompting engineering capabilities, broaden their applications in Robotics or Healthcare, and leverage their capabilities across various disciplines.
-
+-->
 ## Education
 
 * MSc. Computer Science, University of Chile (2023)
@@ -21,6 +23,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ## Experience
 
+* March 2024: Part-time Professor at [Department of Computer Science](https://dcc.uchile.cl/), University of Chile.
 * February 2024 - present: Machine Learning Engineer at [Replai](https://replai.cl/) SpA.
 * August 2023 - December 2023: Part-Time Professor at [Master of Data Science](https://mds.uchile.cl/), University of Chile.
 * Jul 2021 - Jun 2023 - Present: Research Assistant, FONDECYT 11200290, Chile. [Project: Tracking Social Public Opinion: A Stream-Mining Based Approach](https://www.dcc.uchile.cl/investigacion/fondecyt/fbravo#proyectos_adjudicados). 
@@ -35,7 +38,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ## Teaching
 
-
+* [CC5205] (Lecturer) [Data Mining](https://github.com/dccuchile/CC5205/) (fall 2024), Department of Computer Science, Universidad de Chile.
 * [MDS7202] (Lecturer) [Data Science Laboratory](https://github.com/MDS7202/MDS7202/) (spring 2023), Postgraduate School, Universidad de Chile.
 * [CC66S] (TA) Machine Learning (Spring 2023), Continual Education Program,  Department of Computer Science, Universidad de Chile.
 * [CC66Q] (TA) [Natural Language Processing](https://github.com/fvillena/dcc-ia-nlp) (spring 2023),  Department of Computer Science, Universidad de Chile.
@@ -82,6 +85,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ## Talks and Workshops
 
+* [January 2024] Workshop on Disinformation in Social Media: How to Protect Yourself from Deception for Seniors, Requinoa and Olivar, Chile ([slides](documents/Taller-PME.pdf) in Spanish).
 * [September 2023] Poster presentation RiverText: A Framework for Training and Evaluating Incremental Word Embeddings from Text Data Streams, The first Postgraduate Symposium at the Faculty of Math and Physics Sciences from the University of Chile, Santiago, Chile ([Certificate of Attendance](https://giturra.cl/documents/FCFM-Participate-Certificate.pdf)).
 * [July 2023] Paper Presentation entitled: RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Streams, [The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval](https://sigir.org/sigir2023/), Taipei, Taiwan ([Certificate of Attendance](https://giturra.cl/documents/SIGIR-Participation-Certificate.pdf)).
 * [July 2023] Workshop: Web Scrapping, [The Summer Institutes in Computational Social Science](https://sicss.io/2023/chile/), Santiago, Chile.
