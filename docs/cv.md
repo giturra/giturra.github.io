@@ -95,6 +95,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 ## Media Outreach
 
 * [Revista Bits N° 25: Inteligencia Artificial Generativa, Estudiantes, página 63](https://www.dcc.uchile.cl/media/bits/pdfs/bits25.59-estudiantes-dcc_j5qXyJ3.pdf).
+* [Desinformación en redes sociales: cómo protegerte de los engaños para Adultos Mayores en Olivar](https://www.elrancaguino.cl/2024/01/25/realizan-charla-sobre-prevencion-de-estafas-telefonicas-para-adultos-mayores-de-olivar/) [(pdf)](documents/noticia.pdf).
 
 ## Technical Skills
 
