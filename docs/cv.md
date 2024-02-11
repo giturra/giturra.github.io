@@ -6,7 +6,7 @@
 * Nationality: Chile
 * E-mail: gabrieliturrab at ug.uchile.cl / gabriel at replai.cl
 * Public Profiles: [personal website](https://giturra.cl/), [IMFD](https://imfd.cl/investigador/gabriel-iturra/), [Google Scholar](https://scholar.google.com/citations?user=emd1wQkAAAAJ&hl=es), [LinkedIn](https://www.linkedin.com/in/giturra/), [GitHub](https://github.com/giturra/), [ResearchGate](https://www.researchgate.net/profile/Gabriel-Iturra-Bocaz), [Semantic Scholar](https://www.semanticscholar.org/author/Gabriel-Iturra-Bocaz/32830698), [Orcid](https://orcid.org/0009-0001-9635-0683), [Twitter](https://twitter.com/g_iturrab).
-* Areas of Interest:  [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model), [Data Stream Mining](https://en.wikipedia.org/wiki/Data_stream_mining), [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+* Areas of Interest: [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning), [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model), [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
 <!--
 
@@ -23,7 +23,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ## Experience
 
-* March 2024: Part-time Professor at [Department of Computer Science](https://dcc.uchile.cl/), University of Chile.
+* March 2024 - Present: Part-time Professor at [Department of Computer Science](https://dcc.uchile.cl/), University of Chile.
 * February 2024 - present: Machine Learning Engineer at [Replai](https://replai.cl/) SpA.
 * August 2023 - December 2023: Part-Time Professor at [Master of Data Science](https://mds.uchile.cl/), University of Chile.
 * Jul 2021 - Jun 2023 - Present: Research Assistant, FONDECYT 11200290, Chile. [Project: Tracking Social Public Opinion: A Stream-Mining Based Approach](https://www.dcc.uchile.cl/investigacion/fondecyt/fbravo#proyectos_adjudicados). 
@@ -94,8 +94,8 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ## Media Outreach
 
-* [Revista Bits N° 25: Inteligencia Artificial Generativa, Estudiantes, página 63](https://www.dcc.uchile.cl/media/bits/pdfs/bits25.59-estudiantes-dcc_j5qXyJ3.pdf).
-* [Desinformación en redes sociales: cómo protegerte de los engaños para Adultos Mayores en Olivar](https://www.elrancaguino.cl/2024/01/25/realizan-charla-sobre-prevencion-de-estafas-telefonicas-para-adultos-mayores-de-olivar/) [(pdf)](documents/noticia.pdf).
+* [Revista Bits N° 25: Inteligencia Artificial Generativa, Estudiantes, página 63 (in Spanish)](https://www.dcc.uchile.cl/media/bits/pdfs/bits25.59-estudiantes-dcc_j5qXyJ3.pdf).
+* [Desinformación en redes sociales: cómo protegerte de los engaños para Adultos Mayores en Olivar (in Spanish)](https://www.elrancaguino.cl/2024/01/25/realizan-charla-sobre-prevencion-de-estafas-telefonicas-para-adultos-mayores-de-olivar/) [(pdf)](documents/noticia.pdf).
 
 ## Technical Skills
 
@@ -122,4 +122,4 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 Gabriel Iturra-Bocaz
 
-Santiago, Chile January 11, 2024
+Santiago, Chile February 11, 2024

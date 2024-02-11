@@ -9,18 +9,18 @@ Hello!
 
 I am Gabriel, and I hold a Master's degree in Computer Science from the [Department of Computer Science](https://www.dcc.uchile.cl/) at the University of Chile. My thesis focused on the study and implementation of incremental text representations under the supervision of Professor [Felipe Bravo-Marquez](https://felipebravom.com).
 
-Currently, I am working as a Machine Learning Engineer at [Replai SpA](https://replai.cl/about), a Chilean startup that seeks to revolutionize the way meta-search engines work in specific domains, including law and healthcare. My research interests encompass Natural Language Processing, Large Language Models, and Data Streams. 
+Currently, I am working as a Machine Learning Engineer at [Replai SpA](https://replai.cl/about), a Chilean startup that seeks to revolutionize the way meta-search engines work in specific domains, including law and healthcare. 
 
-In my leisure time, I engage in physical exercise, especially biking, and I satisfy my curiosity by exploring new subjects through books and videos
+My research interests encompass Reinforcement Learning, Large Language Models and Natural Language Processing. In my leisure time, I engage in physical exercise, especially biking, and I satisfy my curiosity by exploring new subjects through books and videos
 
 
 ## Research Areas
 
 I specialize in the extraction of knowledge and information from unstructured data, with a focus on natural language text and streaming learning. My research interests encompass several interrelated fields in this domain.
 
-* [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
+* [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 * [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model)
-* [Data Stream Mining](https://en.wikipedia.org/wiki/Data_stream_mining)
+* [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
@@ -41,4 +41,4 @@ I specialize in the extraction of knowledge and information from unstructured da
 * [Twitter](https://twitter.com/g_iturrab)
 * [LinkedIn](https://www.linkedin.com/in/giturra/)
 
-Last Updated January 18, 2024.
+Last Updated February 11, 2024.
