@@ -1,0 +1,250 @@
+# Curriculum Vitae
+
+
+
+## Personal Information
+
+
+
+* Full name: Gabriel Emerson Iturra Bocaz
+
+* Nationality: Chile
+
+* E-mail: g.iturra.bocaz at gmail.com / gabriel at replai.cl
+
+* Public Profiles: [personal website](https://giturra.cl/), [IMFD](https://imfd.cl/investigador/gabriel-iturra/), [Google Scholar](https://scholar.google.com/citations?user=emd1wQkAAAAJ&hl=es), [LinkedIn](https://www.linkedin.com/in/giturra/), [GitHub](https://github.com/giturra/), [ResearchGate](https://www.researchgate.net/profile/Gabriel-Iturra-Bocaz), [Semantic Scholar](https://www.semanticscholar.org/author/Gabriel-Iturra-Bocaz/32830698), [Orcid](https://orcid.org/0009-0001-9635-0683), [Twitter](https://twitter.com/g_iturrab).
+
+* Areas of Interest: [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning), [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model), [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+
+
+
+<!--
+
+
+
+## Short Bio
+
+
+
+Large Language Models (LLMs) are significant deep learning models trained on vast corpora of text. These models have revolutionized the field of Natural Language Processing (NLP) with their ability to accurately perform various NLP tasks, such as sentiment analysis, text classification, and text summarization. These advances have raised questions about whether these models have reasoning capabilities for solving tasks like Arithmetic Reasoning or Commonsense Reasoning. However, despite their groundbreaking advancements, these models are prone to hallucination, a phenomenon where these models invent or change information. This oversight is why I am deeply interested in approaches that improve planning and grounded tasks using the semantic knowledge that LLMs can provide. During my master’s degree, I developed RiverText, a framework for training and evaluating word embeddings from streaming text data. This framework employs multiple methods and algorithms to incrementally represent word embeddings based on the distributional hypothesis. My work received international recognition, being accepted at the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’23) in Taipei, Taiwan. I currently serve as a part-time professor in the Master of Data Science program at the University of Chile, where we explore the most critical aspects of Machine Learning and Data Mining. I am actively seeking Ph.D. opportunities to further explore the potential of Large Language Models, aiming to enhance their prompting engineering capabilities, broaden their applications in Robotics or Healthcare, and leverage their capabilities across various disciplines.
+
+-->
+
+## Education
+
+
+
+* MSc. Computer Science, University of Chile (2023)
+
+* Computer Science Engineer, University of Chile (2021)
+
+* BSc. Computer Science, University of Chile (2020)
+
+* BSc. in Industrial Engineering, University of Chile (2019)
+
+
+
+## Experience
+
+
+
+* March 2024 - Present: Part-time Professor at [Department of Computer Science](https://dcc.uchile.cl/), University of Chile.
+
+* February 2024 - present: Machine Learning Engineer at [Replai](https://replai.cl/) SpA.
+
+* August 2023 - December 2023: Part-Time Professor at [Master of Data Science](https://mds.uchile.cl/), University of Chile.
+
+* Jul 2021 - Jun 2023 - Present: Research Assistant, FONDECYT 11200290, Chile. [Project: Tracking Social Public Opinion: A Stream-Mining Based Approach](https://www.dcc.uchile.cl/investigacion/fondecyt/fbravo#proyectos_adjudicados). 
+
+* Jul 2021 - Jun 2023: Researcher Intern, [Millennium Institute for Foundational Research on Data](https://imfd.cl/), Chile. 
+
+* Jul 2021 - Jun 2023: Researcher Intern, [National Center for Artificial Intelligence](https://cenia.cl/), Chile.
+
+* March 2018 - September 2020: Director of I. T., [Beauchef Networking](https://www.linkedin.com/company/redesbeauchef/).
+
+* March 2020 - July 2020: Web Developer, [UGU](https://ugu.cl/) S. A.
+
+* January 2019 - March 2019: Web Developer, Memory and Neuropsychiatry Clinic, Faculty of Medicine, University of Chile.
+
+* January 2018 - February 2018: Intership, [Wizz](https://www.wizz.life/), Mobile Developer.
+
+* December 2016 - January 2017: Intership, [Web Intelligence Centre](https://wic.uchile.cl/), Software Developer.   
+
+
+
+
+
+## Teaching
+
+
+
+* [CC5205] (Lecturer) [Data Mining](https://github.com/dccuchile/CC5205/) (fall 2024), Department of Computer Science, Universidad de Chile.
+
+* [MDS7202] (Lecturer) [Data Science Laboratory](https://github.com/MDS7202/MDS7202/) (spring 2023), Postgraduate School, Universidad de Chile.
+
+* [CC66S] (TA) Machine Learning (Spring 2023), Continual Education Program,  Department of Computer Science, Universidad de Chile.
+
+* [CC66Q] (TA) [Natural Language Processing](https://github.com/fvillena/dcc-ia-nlp) (spring 2023),  Department of Computer Science, Universidad de Chile.
+
+* [DEDCCPYAC02] (TA) Data Management and Data Mining in Python (spring 2023), Continual Education Program,  Department of Computer Science, Universidad de Chile.
+
+* [CC5402] (TA) Software Project (spring 2023), Department of Computer Science, Universidad de Chile.
+
+* [CC6105] (TA) [Statistical Thinking](https://github.com/dccuchile/CC6104) (spring 2022), Department of Computer Science, Universidad de Chile.
+
+* [CC6204] (TA) [Deep Learning](https://github.com/ivansipiran/CC6204-Deep-Learning) (spring 2022), Department of Computer Science, Universidad de Chile.
+
+* [CC5205] (TA) [Data Mining](https://github.com/dccuchile/CC5205/) (fall 2022, fall 2023), Department of Computer Science, Universidad de Chile.
+
+* [CC6205] (TA) [Natural Language Processing](https://github.com/dccuchile/CC6205) (fall 2022, fall 2023), Department of Computer Science, Universidad de Chile.
+
+* [CC7910] (TA) Research in Computer Science (Methods, Techniques, Perspectives) (spring 2021, fall 2022, spring 2022, fall 2023, spring 2023), Department of Computer Science, Universidad de Chile.
+
+* [IN6534] (TA) Introduction to Deep Learning (spring 2021), Department of Industrial Engineering, Universidad de Chile.
+
+* [CC4102] (TA) Algorithm Design and Analysis (spring 2020, fall 2022, spring 2022, fall 2023), Department of Computer Science, Universidad de Chile.
+
+* [CC4101] (TA) Programming Languages (spring 2020), Department of Computer Science, Universidad de Chile.
+
+* [CC5401] (TA) Software Engineering II (fall 2020), Department of Computer Science, Universidad de Chile.
+
+* [CC3201] (TA) Databases (fall 2019, spring 2019), Department of Computer Science, Universidad de Chile.
+
+* [IQ5412] (TA) Process Modeling and Simulation (spring 2018), Department of Chemical Engineering and Biotechnology, Universidad de Chile.
+
+* [CC5002] (TA) Web Application Development (spring 2017, fall 2018, spring 2018, fall 2019, spring 2019, fall 2020,spring 2020, fall 2021, spring 2021), Department of Computer Science, Universidad de Chile.
+
+* [MA2601] (TA) Ordinary differential equations (fall 2016), Department of Mathematical Engineering, Universidad de Chile.
+
+
+
+## Short Courses
+
+
+
+* [LSSDS](http://lssds.aura-astronomy.org/winter_school/content/2021-la-serena-school-data-science), La Serena School Data Science, 2-13 August, 2021, La Serena ([Certificate of Attendance](https://giturra.cl/documents/certificate_LSSDS2021_estudiantes_Gabriel_Iturra.pdf)).
+
+
+
+## Publications
+
+
+
+1. G. Iturra-Bocaz and F. Bravo-Marquez [RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Stream](https://dl.acm.org/doi/10.1145/3539618.3591908). In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), Taipei, Taiwan. Association for Computing Machinery. Pages 3027–3036. DOI:10.1145/3539618.3591908 ([pdf](https://giturra.cl/publications/rivertext.pdf))([poster](https://giturra.cl/documents/rivertext_poster.pdf)).
+
+
+
+2. F. Vera, V. D. Cortés, G. Iturra, J. D. Velásquez, P. Maldonado and A. Couve, [Akori: A Tool Based in Eye-Tracking Techniques for Analyzing Web User Behaviour on a Web Site](https://ieeexplore.ieee.org/document/8215722) 2017 IEEE International Conference on Data Mining Workshops (ICDMW), 2017, pp. 635-640, doi: 10.1109/ICDMW.2017.90 ([pdf](https://giturra.cl/publications/akori.pdf)).
+
+
+
+## Thesis
+
+
+
+1. Master's Thesis (first five pages in Spanish): [RiverText A framework for training and evaluating Incremental Word Embeddings from Text Data Streams](https://repositorio.uchile.cl/handle/2250/196539) ([pdf](https://giturra.cl/documents/master-thesis.pdf)).
+
+
+
+## Projects
+
+
+
+1. [RiverText](https://github.com/dccuchile/rivertext): A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Streams (as main developer).
+
+2. [MDS7202](https://github.com/MDS7202/MDS7202/) Official repository from the course Data Science Laboratory at the Data Science Master Program at the University of Chile (as lecturer).
+
+3. [CC66Q](https://github.com/fvillena/dcc-ia-nlp) Official repository for the Natural Language Processing module in the Artificial Intelligence Diploma Program at the University of Chile (as Teaching Assistant).
+
+
+
+## Awards
+
+
+
+* [2023] SIGIR Student Travel Grant to attend the [2023 SIGIR International Conference on Information Retrieval](https://sigir.org/sigir2023/) in Taipei, Taiwan.
+
+* [2016] Outstading Student in 2016.
+
+
+
+## Talks and Workshops
+
+
+
+* [January 2024] Workshop on Disinformation in Social Media: How to Protect Yourself from Deception for Seniors, Requinoa and Olivar, Chile ([slides](documents/Taller-PME.pdf) in Spanish).
+
+* [September 2023] Poster presentation RiverText: A Framework for Training and Evaluating Incremental Word Embeddings from Text Data Streams, The first Postgraduate Symposium at the Faculty of Math and Physics Sciences from the University of Chile, Santiago, Chile ([Certificate of Attendance](https://giturra.cl/documents/FCFM-Participate-Certificate.pdf)).
+
+* [July 2023] Paper Presentation entitled: RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Streams, [The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval](https://sigir.org/sigir2023/), Taipei, Taiwan ([Certificate of Attendance](https://giturra.cl/documents/SIGIR-Participation-Certificate.pdf)).
+
+* [July 2023] Workshop: Web Scrapping, [The Summer Institutes in Computational Social Science](https://sicss.io/2023/chile/), Santiago, Chile.
+
+* [July 2023] Workshop: Text Analysis II, [The Summer Institutes in Computational Social Science](https://sicss.io/2023/chile/), Santiago, Chile. 
+
+* [April 2023] Department of Computer Science, Universidad de Chile. Thesis Talk, entitled RiverText: A Framework for Training and Evaluating Incremental Word Embeddings from Text Data Streams ([slides](https://giturra.cl/slides/thesis.pdf))([video](https://www.youtube.com/watch?v=T0RD3mULe5M&t=260s) in Spanish).
+
+
+
+## Media Outreach
+
+
+
+* [Revista Bits N° 25: Inteligencia Artificial Generativa, Estudiantes, página 63 (in Spanish)](https://www.dcc.uchile.cl/media/bits/pdfs/bits25.59-estudiantes-dcc_j5qXyJ3.pdf).
+
+* [Desinformación en redes sociales: cómo protegerte de los engaños para Adultos Mayores en Olivar (in Spanish)](https://www.elrancaguino.cl/2024/01/25/realizan-charla-sobre-prevencion-de-estafas-telefonicas-para-adultos-mayores-de-olivar/) [(pdf)](documents/noticia.pdf).
+
+
+
+## Technical Skills
+
+
+
+* Programming Languages: Python, Java, C/C++, R, PHP, JavaScript.
+
+* Especial Frameworks: PyTorch, TensorFlow, Django, Springs Boots, React and React Native.
+
+* Databases: PostgreSQL, MySQL and MongoDB.
+
+
+
+
+
+## Languages
+
+
+
+* Spanish: Native.
+
+* English: Advance (B2), Academic IETLS 6.5/9.0.
+
+
+
+## References
+
+* [Felipe Bravo-Marquez](https://felipebravom.com/): 
+
+    * Assistant Professor, University of Chile. 
+
+    * Contact: fbravo at dcc.uchile.cl
+
+* [Claudio Gutierrez](https://www.dcc.uchile.cl/nosotros/academico/cgutierrez): 
+
+    * Full Professor, University of Chile. 
+
+    * Contact: cgutierr at dcc.uchile.cl
+
+* [Andres Abeliuk](https://aabeliuk.github.io/): 
+
+    * Assitant Professor, University of Chile.
+
+    * Contact: aabeliuk at dcc.uchile.cl
+
+
+
+Gabriel Iturra-Bocaz
+
+
+
+Santiago, Chile February 11, 2024
+

@@ -4,7 +4,7 @@
 
 * Full name: Gabriel Emerson Iturra Bocaz
 * Nationality: Chile
-* E-mail: gabrieliturrab at ug.uchile.cl / gabriel at replai.cl
+* E-mail: g.iturra.bocaz at gmail.com / gabriel at replai.cl
 * Public Profiles: [personal website](https://giturra.cl/), [IMFD](https://imfd.cl/investigador/gabriel-iturra/), [Google Scholar](https://scholar.google.com/citations?user=emd1wQkAAAAJ&hl=es), [LinkedIn](https://www.linkedin.com/in/giturra/), [GitHub](https://github.com/giturra/), [ResearchGate](https://www.researchgate.net/profile/Gabriel-Iturra-Bocaz), [Semantic Scholar](https://www.semanticscholar.org/author/Gabriel-Iturra-Bocaz/32830698), [Orcid](https://orcid.org/0009-0001-9635-0683), [Twitter](https://twitter.com/g_iturrab).
 * Areas of Interest: [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning), [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model), [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
