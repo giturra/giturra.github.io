@@ -75,8 +75,9 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 ## Projects
 
 1. [RiverText](https://github.com/dccuchile/rivertext): A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Streams (as main developer).
-2. [MDS7202](https://github.com/MDS7202/MDS7202/) Official repository from the course Data Science Laboratory at the Data Science Master Program at the University of Chile (as lecturer).
+2. [MDS7202](https://github.com/MDS7202/MDS7202/) Official repository from the Data Science Laboratory course at the Data Science Master Program at the University of Chile (as lecturer).
 3. [CC66Q](https://github.com/fvillena/dcc-ia-nlp) Official repository for the Natural Language Processing module in the Artificial Intelligence Diploma Program at the University of Chile (as Teaching Assistant).
+4. [CC5205](https://github.com/dccuchile/CC5205) Official repository from the Data Mining course at the Department of Computer Science at the University of Chile (as lecturer).
 
 ## Awards
 
