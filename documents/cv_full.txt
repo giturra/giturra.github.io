@@ -48,7 +48,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 
 
-* March 2024 - Present: Part-time Professor at [Department of Computer Science](https://dcc.uchile.cl/), University of Chile.
+* March 2024 - present: Part-time Professor at [Department of Computer Science](https://dcc.uchile.cl/), University of Chile.
 
 * February 2024 - present: Machine Learning Engineer at [Replai](https://replai.cl/) SpA.
 
@@ -216,7 +216,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 * Spanish: Native.
 
-* English: Advance (B2), Academic IETLS 6.5/9.0.
+* English: Advance (C1), Academic IETLS 7.0/9.0.
 
 
 
@@ -246,5 +246,5 @@ Gabriel Iturra-Bocaz
 
 
 
-Santiago, Chile February 11, 2024
+Santiago, Chile February 21, 2024
 

@@ -1,11 +1,12 @@
 site_name: Gabriel Iturra-Bocaz
 theme: 
-    name: null
-    custom_dir: 'cinder'
-    colorscheme: github
+    name: material
     highlightjs: true
     hljs_languages:
-    - yaml
+        - yaml
+    features:
+        - navigation.footer
+
 
 site_url: https://giturra.cl 
 plugins: []
@@ -17,3 +18,9 @@ nav:
         - 'Web Format': cv.md
         - 'PDF': 'documents/cv_full.pdf'
     - Blog: blog.md
+copyright: Copyright &copy; 2021 - 2024 Gabriel Iturra-Bocaz
+extra:
+    social:
+        - icon: fontawesome/brands/mastodon 
+
+    generator: false
