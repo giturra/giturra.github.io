@@ -1,6 +1,9 @@
 site_name: Gabriel Iturra-Bocaz
+
 theme: 
     name: material
+    palette:
+        primary: blue
     highlightjs: true
     hljs_languages:
         - yaml
@@ -10,6 +13,7 @@ theme:
 
 site_url: https://giturra.cl 
 plugins: []
+
 site_description: Personal Webpage of Gabriel Iturra-Bocaz
 nav:
     - Home: index.md
@@ -18,9 +22,18 @@ nav:
         - 'Web Format': cv.md
         - 'PDF': 'documents/cv_full.pdf'
     - Blog: blog.md
+
 copyright: Copyright &copy; 2021 - 2024 Gabriel Iturra-Bocaz
+
 extra:
     social:
-        - icon: fontawesome/brands/mastodon 
+        - icon: fontawesome/brands/github
+          link: https://github.com/giturra
+        - icon: fontawesome/brands/linkedin 
+          link: https://www.linkedin.com/in/giturra/
+        - icon: fontawesome/brands/x-twitter
+          link: https://twitter.com/g_iturrab
+        - icon: fontawesome/brands/instagram
+          link: https://www.instagram.com/gabriel.iturra.b/
 
     generator: false

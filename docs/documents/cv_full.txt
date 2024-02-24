@@ -200,9 +200,9 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 
 
-* Programming Languages: Python, Java, C/C++, R, PHP, JavaScript.
+* Programming Languages: Python, Java, C/C++, R, Rust, PHP, and JavaScript.
 
-* Especial Frameworks: PyTorch, TensorFlow, Django, Springs Boots, React and React Native.
+* Especial Frameworks: PyTorch, TensorFlow, Streamlit, Django, Springs Boots, React and React Native
 
 * Databases: PostgreSQL, MySQL and MongoDB.
 
@@ -246,5 +246,5 @@ Gabriel Iturra-Bocaz
 
 
 
-Santiago, Chile February 21, 2024
+Santiago, Chile February 24, 2024
 
