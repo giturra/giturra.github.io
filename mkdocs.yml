@@ -39,5 +39,3 @@ extra:
   analytics:
     provider: google
     property: GG-HVC4TDP8MT
-
-  generator: false
