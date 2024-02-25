@@ -36,4 +36,7 @@ extra:
         - icon: fontawesome/brands/instagram
           link: https://www.instagram.com/gabriel.iturra.b/
 
-    generator: false
+  generator: false
+  analytics:
+    provider: google
+    property: G-HVC4TDP8MT

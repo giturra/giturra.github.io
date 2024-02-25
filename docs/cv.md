@@ -16,8 +16,8 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 -->
 ## Education
 
-* [MSc. Computer Science](documents/titles/master.pdf), University of Chile (2023)
-* [Computer Science Engineer](documents/titles/engineering.pdf), University of Chile (2021)
+* [MSc. Computer Science](https://giturra.cl/documents/titles/master.pdf), University of Chile (2023)
+* [Computer Science Engineer](https://giturra.cl/documents/titles/engineering.pdf), University of Chile (2021)
 * BSc. Computer Science, University of Chile (2020)
 * BSc. in Industrial Engineering, University of Chile (2019)
 
