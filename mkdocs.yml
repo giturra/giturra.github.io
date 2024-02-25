@@ -26,7 +26,7 @@ nav:
 copyright: Copyright &copy; 2021 - 2024 Gabriel Iturra-Bocaz
 
 extra:
-    social:
+  social:
         - icon: fontawesome/brands/github
           link: https://github.com/giturra
         - icon: fontawesome/brands/linkedin 
@@ -36,7 +36,8 @@ extra:
         - icon: fontawesome/brands/instagram
           link: https://www.instagram.com/gabriel.iturra.b/
 
-  generator: false
   analytics:
     provider: google
-    property: G-HVC4TDP8MT
+    property: GG-HVC4TDP8MT
+
+  generator: false
