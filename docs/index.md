@@ -38,7 +38,7 @@ I specialize in the extraction of knowledge and information from unstructured da
 * [Semantic Scholar](https://www.semanticscholar.org/author/Gabriel-Iturrra/32830698)
 * [GitHub](https://github.com/giturra)
 * [IMFD](https://imfd.cl/investigador/gabriel-iturra/)
-* [Twitter](https://twitter.com/g_iturrab)
+* [X](https://x.com/g_iturrab)
 * [LinkedIn](https://www.linkedin.com/in/giturra/)
 
 Last Updated February 24, 2024.
