@@ -108,7 +108,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 ## Languages
 
 * Spanish: Native.
-* English: Advance (C1), Academic IETLS 7.0/9.0.
+* English: Fluent (C1), Academic IETLS 7.0/9.0.
 
 ## References
 * [Felipe Bravo-Marquez](https://felipebravom.com/): 
