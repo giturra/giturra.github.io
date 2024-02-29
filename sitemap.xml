@@ -25,4 +25,24 @@
          <lastmod>2024-02-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://giturra.cl/blog/2024/02/29/hello-world/</loc>
+         <lastmod>2024-02-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://giturra.cl/blog/archive/2024/</loc>
+         <lastmod>2024-02-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://giturra.cl/blog/category/hello/</loc>
+         <lastmod>2024-02-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://giturra.cl/blog/category/world/</loc>
+         <lastmod>2024-02-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
