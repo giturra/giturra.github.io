@@ -12,7 +12,10 @@ theme:
 
 
 site_url: https://giturra.cl 
-plugins: []
+
+plugins:
+  - blog:
+      blog_dir: blog
 
 site_description: Personal Webpage of Gabriel Iturra-Bocaz
 nav:
