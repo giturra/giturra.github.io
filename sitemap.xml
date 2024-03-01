@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://giturra.cl/</loc>
-         <lastmod>2024-02-29</lastmod>
+         <lastmod>2024-03-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://giturra.cl/bio/</loc>
-         <lastmod>2024-02-29</lastmod>
+         <lastmod>2024-03-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://giturra.cl/blog/</loc>
-         <lastmod>2024-02-29</lastmod>
+         <lastmod>2024-03-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://giturra.cl/cv/</loc>
-         <lastmod>2024-02-29</lastmod>
+         <lastmod>2024-03-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://giturra.cl/blog/</loc>
-         <lastmod>2024-02-29</lastmod>
+         <lastmod>2024-03-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://giturra.cl/blog/2024/02/29/hello-world/</loc>
-         <lastmod>2024-02-29</lastmod>
+         <loc>https://giturra.cl/blog/2024/02/29/mi-primer-blog-bagging-vs-boosting/</loc>
+         <lastmod>2024-03-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://giturra.cl/blog/archive/2024/</loc>
-         <lastmod>2024-02-29</lastmod>
+         <lastmod>2024-03-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://giturra.cl/blog/category/hello/</loc>
-         <lastmod>2024-02-29</lastmod>
+         <lastmod>2024-03-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://giturra.cl/blog/category/world/</loc>
-         <lastmod>2024-02-29</lastmod>
+         <lastmod>2024-03-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
