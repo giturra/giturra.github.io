@@ -39,3 +39,9 @@ extra:
         - icon: fontawesome/brands/instagram
           link: https://www.instagram.com/gabriel.iturra.b/
   generator: false
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
