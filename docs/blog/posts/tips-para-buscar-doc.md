@@ -63,7 +63,7 @@ Por ejemplo, la [Universidad de Queensland](https://www.uq.edu.au/), en Brisbane
 
 ### Utilizando redes sociales
 
-Quizás suene extraño, pero muchos investigadores ofrecen sus proyectos de investigación a potenciales estudiantes a través de redes sociales como [X]() o [LinkedIn](https://www.linkedin.com/feed/). Una forma de acceder a estas oportunidades es escribir "PhD Position in Reinforcement Learning" en los buscadores de estas redes (por eso fundamental haber elegido al menos la disciplina), ajustando el filtro a las últimas publicaciones. De esta manera, siempre encontraba varias posiciones que podrían ser de mi interés cada cierto tiempo. A veces, es posible que no encuentres nada interesante, por lo que es necesario repetir la búsqueda periódicamente.
+Quizás suene extraño, pero muchos investigadores ofrecen sus proyectos de investigación a potenciales estudiantes a través de redes sociales como [X](https://twitter.com/home) o [LinkedIn](https://www.linkedin.com/feed/). Una forma de acceder a estas oportunidades es escribir "PhD Position in Reinforcement Learning" en los buscadores de estas redes (por eso fundamental haber elegido al menos la disciplina), ajustando el filtro a las últimas publicaciones. De esta manera, siempre encontraba varias posiciones que podrían ser de mi interés cada cierto tiempo. A veces, es posible que no encuentres nada interesante, por lo que es necesario repetir la búsqueda periódicamente.
 
 ## Cierre
 
