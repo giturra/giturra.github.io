@@ -11,7 +11,7 @@ Hace unos meses, me encontraba en la activa búsqueda de programas de Doctorado 
 
 Antes de comenzar, quiero señalar algunos puntos importantes. En primer lugar, soy consciente de que mi experiencia no es universal; es posible que lo que me funcionó a mí no se aplique a todos. Además, hay muchas otras maneras de abordar esta búsqueda, más allá de las que compartiré aquí. En segundo lugar, debo aclarar que no soy doctor ni estudiante de doctorado. Es más, actualmente, trabajo en una startup de Inteligencia Artificial. Sin embargo, logré conseguir algunas entrevistas exitosas. En tercer lugar, mis consejos estarán principalmente orientados a la búsqueda de estudios de posgrado en Ciencias de la Computación e Inteligencia Artificial, dado que esta es mi área de formación. Aunque creo que estos consejos generales pueden ser de utilidad en otras áreas, los detalles más específicos se centrarán en las disciplinas de Ciencias de la Ingeniería.
 
-## ¿Porqué seguir estos de Doctorado?
+## ¿Porqué seguir estudios de Doctorado?
 
 Esta es una pregunta crucial que una persona debe ser capaz de responder al comenzar la búsqueda de estudios de postgrado, ya sea de maestría o doctorado. Esto se debe a que, aunque estudiar en otro país puede ser la mejor experiencia de tu vida, existen numerosos riesgos que deberás enfrentar. Entre ellos se incluyen dejar a tu familia y amigos, aprender nuevos idiomas (ya que el inglés podría servir para comunicarse en el ámbito universitario, pero no necesariamente en el día a día de una cultura diferente, donde las personas no tienen por qué saber hablar inglés para comunicarse con extranjeros). Otro punto a considerar es la situación financiera; seguir un programa de maestría o doctorado significa que posiblemente no podrás trabajar durante varios años. Y, aunque las becas proveen para vivir durante ese tiempo, es mucho menos dinero que el salario que podrías obtener en la industria. Por estas y otras razones, responder a esta pregunta es fundamental: ¿Por qué quieres estudiar una Maestría o un Doctorado? Sea cual sea tu motivación, debe ser firme, ya que, aunque podría ser la mejor aventura de tu vida, no quita que también podría ser una de las más difíciles. Si aún no sabes la respuesta a esta pregunta, dejo algunos enlaces que podrían ayudarte a encontrarla:
 
@@ -32,7 +32,7 @@ Luego de definir la disciplina que quieres aprender e investigar, el siguiente p
 
 Luego de haber decidido la disciplina y el tópico, surge la pregunta de cómo empezar a buscar un potencial supervisor en mis áreas de interés. En mi experiencia, identifiqué cuatro formas en las que pude, al menos, enviar mis antecedentes a varios potenciales supervisores:
 
-- Bscar supervisores de paper interesantes que hayan leído.
+- Buscar supervisores de paper interesantes que hayan leído.
 - Páginas de anuncios.
 - Proyectos de investigación en institutos y/o universidades.
 - Utilizando redes sociales.
