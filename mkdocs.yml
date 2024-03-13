@@ -9,8 +9,9 @@ theme:
         - yaml
     features:
         - navigation.footer
-    logo: assets/cat_logo.png
-
+    logo: assets/cat_logo.webp
+extra_css:
+  - css/stylesheet.css
 
 site_url: https://giturra.cl 
 

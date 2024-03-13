@@ -98,7 +98,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 * [CC6205] (TA) [Natural Language Processing](https://github.com/dccuchile/CC6205) (fall 2022, fall 2023), Department of Computer Science, Universidad de Chile.
 
-* [CC7910] (TA) Research in Computer Science (Methods, Techniques, Perspectives) (spring 2021, fall 2022, spring 2022, fall 2023, spring 2023), Department of Computer Science, Universidad de Chile.
+* [CC7910] (TA) Research in Computer Science (Methods, Techniques, Perspectives) (spring 2021, fall 2022, spring 2022, fall 2023, spring 2023, fall 2024), Department of Computer Science, Universidad de Chile.
 
 * [IN6534] (TA) Introduction to Deep Learning (spring 2021), Department of Industrial Engineering, Universidad de Chile.
 
@@ -248,5 +248,5 @@ Gabriel Iturra-Bocaz
 
 
 
-Santiago, Chile February 24, 2024
+Santiago, Chile March 12, 2024
 
