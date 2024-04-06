@@ -20,6 +20,7 @@ My research interests encompass Reinforcement Learning, Large Language Models an
 I specialize in the extraction of knowledge and information from unstructured data, with a focus on natural language text and streaming learning. My research interests encompass several interrelated fields in this domain.
 
 * [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
+* [Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval)
 * [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model)
 * [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
@@ -42,4 +43,4 @@ I specialize in the extraction of knowledge and information from unstructured da
 * [X](https://x.com/g_iturrab)
 * [LinkedIn](https://www.linkedin.com/in/giturra/)
 
-Last Updated February 24, 2024.
+Last Updated April 6, 2024.
