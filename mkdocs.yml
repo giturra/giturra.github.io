@@ -26,6 +26,7 @@ nav:
     - CV: 
         - 'Web Format': cv.md
         - 'PDF': 'documents/cv_full.pdf'
+    - News: news.md
     - Blog: blog.md
 
 copyright: Copyright &copy; 2021 - 2024 Gabriel Iturra-Bocaz
