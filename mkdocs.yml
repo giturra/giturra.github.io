@@ -9,7 +9,7 @@ theme:
         - yaml
     features:
         - navigation.footer
-    logo: assets/cat_logo.webp
+        
 extra_css:
   - css/stylesheet.css
 
