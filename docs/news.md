@@ -2,10 +2,10 @@
 
 ## 2024
 
-- 15/03/2024: I was accepted into the PhD program focusing on research in LLM, IR, and Multimodal Models at the University of San Diego. Update: I had to reject this position for personal reasons.
+- 15/03/2024: I was accepted into a PhD program with a research focus on Large Language Models (LLMs), Information Retrieval (IR), and Multimodal Models at the University of San Diego. Update: Due to personal reasons, I had to decline the offer.
 - 11/03/2024: I started to work as a part-time professor at the [Department of Computer Science](https://dcc.uchile.cl/) at the University of Chile, lecturing on Data Mining and other postgraduate courses.
-- 31/01/2024: I obtained an Academic IELTS certification with a score of 7.0/9.0, indicating a C1 English Level proficiency.
 - 01/02/2024: I started a new job position as a Machine Learning Engineer at [Replai SpA](https://replai.cl/).
+- 31/01/2024: I obtained an Academic IELTS certification with a score of 7.0/9.0, indicating a C1 English Level proficiency.
 
 ## 2023
 
