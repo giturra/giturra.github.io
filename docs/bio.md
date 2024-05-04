@@ -6,7 +6,7 @@ Gabriel Iturra-Bocaz holds a Master's in Computer Science from the Department of
 
 His noteworthy contributions include publishing an article based on his work at the SIGIR 2023 conference. In addition, Gabriel has developed an open-source library (https://dccuchile.github.io/rivertext/) that replicates his research findings. This library remains active and continues to evolve with the constant addition of new features and an expanding user community.
 
-Currently, he is working as a Machine Learning Engineer at [Replai SpA](https://www.replai.cl/) and as a part-time professor at the [Department of Computer Science](https://dcc.uchile.cl/) from the University of Chile.
+Currently, he is working as a part-time professor at the [Department of Computer Science](https://dcc.uchile.cl/) from the University of Chile.
 
 ## Spanish
 
