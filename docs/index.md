@@ -28,7 +28,7 @@ I specialize in the extraction of knowledge and information from unstructured da
 
 ## Contact
 
-* Email Contact: gabrieliturrab at uchile.cl / g.iturra.bocaz at gmail.com
+* Email Contact: gabrieliturrab at ug.uchile.cl / g.iturra.bocaz at gmail.com
 
 ## Other Profiles
 
