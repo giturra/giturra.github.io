@@ -14,4 +14,4 @@ Gabriel Iturra-Bocaz posee una Maestría en Ciencias de la Computación del Depa
 
 Sus destacadas contribuciones incluyen la publicación de un artículo basado en su trabajo en la conferencia SIGIR 2023. Además, Gabriel ha desarrollado una biblioteca de código abierto (https://dccuchile.github.io/rivertext/) que replica sus hallazgos de investigación. Esta biblioteca sigue activa y continúa evolucionando con la constante incorporación de nuevas características y una comunidad de usuarios en crecimiento.
 
-Actualmente, trabaja como Ingeniero de Aprendizaje Automático en [Replai SpA](https://www.replai.cl/) y como profesor a part-time en el [Departamento de Ciencias de la Computación](https://dcc.uchile.cl/) de la Universidad de Chile
+Actualmente, trabaja como profesor a part-time en el [Departamento de Ciencias de la Computación](https://dcc.uchile.cl/) de la Universidad de Chile
