@@ -10,11 +10,11 @@
 
 * Nationality: Chile
 
-* E-mail: g.iturra.bocaz at gmail.com / gabriel at replai.cl
+* E-mail: g.iturra.bocaz at gmail.com / gabrieliturrab at ug.uchile.cl
 
 * Public Profiles: [personal website](https://giturra.cl/), [IMFD](https://imfd.cl/investigador/gabriel-iturra/), [Google Scholar](https://scholar.google.com/citations?user=emd1wQkAAAAJ&hl=es), [LinkedIn](https://www.linkedin.com/in/giturra/), [GitHub](https://github.com/giturra/), [ResearchGate](https://www.researchgate.net/profile/Gabriel-Iturra-Bocaz), [Semantic Scholar](https://www.semanticscholar.org/author/Gabriel-Iturra-Bocaz/32830698), [Orcid](https://orcid.org/0009-0001-9635-0683), [Twitter](https://twitter.com/g_iturrab).
 
-* Areas of Interest: [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning), [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model), [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+* Areas of Interest: [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning), [Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval), [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model), [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
 
 
@@ -38,7 +38,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 * [Computer Science Engineer](https://giturra.cl/documents/titles/engineering.pdf), University of Chile (2021)
 
-* BSc. Computer Science, University of Chile (2020)
+* [BSc. Computer Science](https://giturra.cl/documents/titles/bachelor.pdf), University of Chile (2020)
 
 * BSc. in Industrial Engineering, University of Chile (2019)
 
@@ -50,7 +50,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 * March 2024 - present: Part-time Professor at [Department of Computer Science](https://dcc.uchile.cl/), University of Chile.
 
-* February 2024 - present: Machine Learning Engineer at [Replai](https://replai.cl/) SpA.
+* February 2024 - May 2024: Machine Learning Engineer at [Replai](https://replai.cl/) SpA.
 
 * August 2023 - December 2023: Part-Time Professor at [Master of Data Science](https://mds.uchile.cl/), University of Chile.
 
@@ -248,5 +248,5 @@ Gabriel Iturra-Bocaz
 
 
 
-Santiago, Chile March 12, 2024
+Santiago, Chile April 6, 2024
 
