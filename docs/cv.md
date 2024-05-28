@@ -40,8 +40,9 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 * [CC5205] (Lecturer) [Data Mining](https://github.com/dccuchile/CC5205/) (fall 2024), Department of Computer Science, University of Chile.
 * [MDS7202] (Lecturer) [Data Science Laboratory](https://github.com/MDS7202/MDS7202/) (spring 2023), Postgraduate School, University of Chile.
+* [CC66E] (Lecturer) [Data Mining] (fall 2024),  Continual Education Program,  Department of Computer Science, University of Chile.
 * [CC66S] (TA) Machine Learning (Spring 2023), Continual Education Program,  Department of Computer Science, University of Chile.
-* [CC66Q] (TA) [Natural Language Processing](https://github.com/fvillena/dcc-ia-nlp) (spring 2023, fall 2024),  Department of Computer Science, University of Chile.
+* [CC66Q] (TA) [Natural Language Processing](https://github.com/fvillena/dcc-ia-nlp) (spring 2023, fall 2024),  Continual Education Program,  Department of Computer Science, University of Chile.
 * [DEDCCPYAC02] (TA) Data Management and Data Mining in Python (spring 2023), Continual Education Program,  Department of Computer Science, University of Chile.
 * [CC5402] (TA) Software Project (spring 2023), Department of Computer Science, University of Chile.
 * [CC6105] (TA) [Statistical Thinking](https://github.com/dccuchile/CC6104) (spring 2022), Department of Computer Science, University of Chile.
