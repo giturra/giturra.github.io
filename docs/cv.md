@@ -59,6 +59,10 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 * [CC5002] (TA) Web Application Development (spring 2017, fall 2018, spring 2018, fall 2019, spring 2019, fall 2020,spring 2020, fall 2021, spring 2021), Department of Computer Science, University of Chile.
 * [MA2601] (TA) Ordinary differential equations (fall 2016), Department of Mathematical Engineering, University of Chile.
 
+## Service
+
+* Program committee reviewer at 14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis.
+
 ## Short Courses
 
 * [LSSDS](http://lssds.aura-astronomy.org/winter_school/content/2021-la-serena-school-data-science), La Serena School Data Science, 2-13 August, 2021, La Serena ([Certificate of Attendance](https://giturra.cl/documents/certificate_LSSDS2021_estudiantes_Gabriel_Iturra.pdf)).
