@@ -106,7 +106,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 ## Technical Skills
 
 * Programming Languages: Python, Java, C/C++, R, Rust, PHP, and JavaScript.
-* Especial Frameworks: PyTorch, TensorFlow, Streamlit, Django, Springs Boots, React and React Native
+* Especial Frameworks: PyTorch, TensorFlow, Streamlit, FastAPI, Django, Springs Boots, React and React Native
 * Databases: PostgreSQL, MySQL and MongoDB.
 
 
@@ -128,4 +128,4 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 Gabriel Iturra-Bocaz
 
-Santiago, Chile April 6, 2024
+Santiago, Chile June 16, 2024
