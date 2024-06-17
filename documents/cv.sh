@@ -1,3 +1,4 @@
 rm cv_full.txt
 python3 cv.py > cv_full.txt
 pandoc --pdf-engine=pdflatex cv_full.txt -o cv_full.pdf
+rm cv_full.txt
