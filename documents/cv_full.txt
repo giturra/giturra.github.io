@@ -34,11 +34,13 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 
 
-* [MSc. Computer Science](https://giturra.cl/documents/titles/master.pdf), University of Chile (August, 2023)
+* [MSc. Computer Science](https://giturra.cl/documents/titles/master.pdf), University of Chile (2023)
 
-* [Computer Science Engineer](https://giturra.cl/documents/titles/engineering.pdf), University of Chile (August, 2023)
+* [Computer Science Engineer](https://giturra.cl/documents/titles/engineering.pdf), University of Chile (2021)
 
-* [BSc. Computer Science](https://giturra.cl/documents/titles/bachelor.pdf), University of Chile (January, 2021)
+* [BSc. Computer Science](https://giturra.cl/documents/titles/bachelor.pdf), University of Chile (2020)
+
+* BSc. in Industrial Engineering, University of Chile (2019)
 
 
 
@@ -115,6 +117,14 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 * [CC5002] (TA) Web Application Development (spring 2017, fall 2018, spring 2018, fall 2019, spring 2019, fall 2020,spring 2020, fall 2021, spring 2021), Department of Computer Science, University of Chile.
 
 * [MA2601] (TA) Ordinary differential equations (fall 2016), Department of Mathematical Engineering, University of Chile.
+
+
+
+## Service
+
+
+
+* Program committee reviewer at 14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis.
 
 
 
