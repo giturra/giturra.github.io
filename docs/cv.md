@@ -23,6 +23,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ## Experience
 
+* June 2024 - present: GenAI Developer at [GlobalConexus](https://globalconexus.com/)
 * March 2024 - present: Part-time Professor at [Department of Computer Science](https://dcc.uchile.cl/), University of Chile.
 * February 2024 - May 2024: Machine Learning Engineer at [Replai](https://replai.cl/) SpA.
 * August 2023 - December 2023: Part-Time Professor at [Master of Data Science](https://mds.uchile.cl/), University of Chile.
@@ -108,7 +109,6 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 * Programming Languages: Python, Java, C/C++, R, Rust, PHP, and JavaScript.
 * Especial Frameworks: PyTorch, TensorFlow, Streamlit, FastAPI, Django, Springs Boots, React and React Native
 * Databases: PostgreSQL, MySQL and MongoDB.
-
 
 ## Languages
 
