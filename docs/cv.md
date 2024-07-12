@@ -107,7 +107,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 ## Technical Skills
 
 * Programming Languages: Python, Java, C/C++, R, Rust, PHP, and JavaScript.
-* Especial Frameworks: PyTorch, TensorFlow, Streamlit, FastAPI, Django, Springs Boots, React and React Native
+* Especial Frameworks: PyTorch, TensorFlow, Streamlit, LangChain, FastAPI, Django, Springs Boots, React and React Native
 * Databases: PostgreSQL, MySQL and MongoDB.
 
 ## Languages
@@ -123,7 +123,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
     * Full Professor, University of Chile. 
     * Contact: cgutierr at dcc.uchile.cl
 * [Andres Abeliuk](https://aabeliuk.github.io/): 
-    * Assitant Professor, University of Chile.
+    * Assistant Professor, University of Chile.
     * Contact: aabeliuk at dcc.uchile.cl
 
 Gabriel Iturra-Bocaz
