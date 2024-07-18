@@ -50,7 +50,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 * June 2024 - present: GenAI Developer at [GlobalConexus](https://globalconexus.com/)
 
-* March 2024 - present: Part-time Professor at [Department of Computer Science](https://dcc.uchile.cl/), University of Chile.
+* March 2024 - July 2024: Part-time Professor at [Department of Computer Science](https://dcc.uchile.cl/), University of Chile.
 
 * February 2024 - May 2024: Machine Learning Engineer at [Replai](https://replai.cl/) SpA.
 
@@ -236,7 +236,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 * [Felipe Bravo-Marquez](https://felipebravom.com/): 
 
-    * Assistant Professor, University of Chile. 
+    * Associate Professor, University of Chile. 
 
     * Contact: fbravo at dcc.uchile.cl
 
@@ -258,4 +258,4 @@ Gabriel Iturra-Bocaz
 
 
 
-Santiago, Chile July 7, 2024
+Santiago, Chile July 17, 2024
