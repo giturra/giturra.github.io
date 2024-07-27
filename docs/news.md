@@ -2,6 +2,7 @@
 
 ## 2024
 
+- 27/07/2023: I was accepted into a PhD position with a research focus on Large Language Models and Information Retrieval at the University of Stavanger, Norway.
 - 17/06/2023: I have started a new job position as a GenAI Developer at [GlobalConexus](https://globalconexus.com/).
 - 15/03/2024: I was accepted into a PhD program with a research focus on Large Language Models (LLMs), Information Retrieval (IR), and Multimodal Models at the University of San Diego. Update: Due to personal reasons, I had to decline the offer.
 - 11/03/2024: I started to work as a part-time professor at the [Department of Computer Science](https://dcc.uchile.cl/) at the University of Chile, lecturing on Data Mining and other postgraduate courses.
