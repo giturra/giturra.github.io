@@ -9,9 +9,9 @@ Hello!
 
 I am Gabriel, and I hold a Master's degree in Computer Science from the [Department of Computer Science](https://www.dcc.uchile.cl/) at the University of Chile. My thesis focused on the study and implementation of incremental text representations under the supervision of Professor [Felipe Bravo-Marquez](https://felipebravom.com).
 
-Currently, I am living in Santiago, Chile, and working as a GenAI Developer at [GlobalConexus](https://globalconexus.com/), which is a technology services company that develops and implements innovative technological solutions for businesses and public institutions.
+Currently, I am living in Santiago, Chile, but I will be moving to Norway to pursue a PhD in Information Retrieval and Large Language Models.
 
-My research interests encompass Reinforcement Learning, Large Language Models and Natural Language Processing. In my leisure time, I engage in physical exercise, especially biking, and I satisfy my curiosity by exploring new subjects through books and videos
+My research interests encompass Information Retrieval, Large Language Models and Natural Language Processing. In my leisure time, I engage in physical exercise, especially biking, and I satisfy my curiosity by exploring new subjects through books and videos
 
 
 
@@ -19,10 +19,10 @@ My research interests encompass Reinforcement Learning, Large Language Models an
 
 I specialize in the extraction of knowledge and information from unstructured data, with a focus on natural language text and streaming learning. My research interests encompass several interrelated fields in this domain.
 
-* [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 * [Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval)
 * [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model)
 * [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
+* [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
@@ -41,4 +41,4 @@ I specialize in the extraction of knowledge and information from unstructured da
 * [X](https://x.com/g_iturrab)
 * [LinkedIn](https://www.linkedin.com/in/giturra/)
 
-Last Updated July 7, 2024.
+Last Updated August 5, 2024.

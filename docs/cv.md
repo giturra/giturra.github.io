@@ -16,6 +16,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 -->
 ## Education
 
+* PhD. Computer Science, University of Stavanger, (starting in October 2024)
 * [MSc. Computer Science](https://giturra.cl/documents/titles/master.pdf), University of Chile (2023)
 * [Computer Science Engineer](https://giturra.cl/documents/titles/engineering.pdf), University of Chile (2021)
 * [BSc. Computer Science](https://giturra.cl/documents/titles/bachelor.pdf), University of Chile (2020)
@@ -128,4 +129,4 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 Gabriel Iturra-Bocaz
 
-Santiago, Chile July 17, 2024
+Santiago, Chile August 5, 2024
