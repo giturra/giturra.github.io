@@ -24,11 +24,12 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ## Experience
 
-* June 2024 - present: GenAI Developer at [GlobalConexus](https://globalconexus.com/)
+* Octuber 2024 - present: Research Fellow, [Information Access and Artificial Intelligence research group](https://iai.group/), University of Stavanger.
+* June 2024 - September 2024: GenAI Developer at [GlobalConexus](https://globalconexus.com/).
 * March 2024 - July 2024: Part-time Professor at [Department of Computer Science](https://dcc.uchile.cl/), University of Chile.
 * February 2024 - May 2024: Machine Learning Engineer at [Replai](https://replai.cl/) SpA.
 * August 2023 - December 2023: Part-Time Professor at [Master of Data Science](https://mds.uchile.cl/), University of Chile.
-* Jul 2021 - Jun 2023 - Present: Research Assistant, FONDECYT 11200290, Chile. [Project: Tracking Social Public Opinion: A Stream-Mining Based Approach](https://www.dcc.uchile.cl/investigacion/fondecyt/fbravo#proyectos_adjudicados). 
+* Jul 2021 - Jun 2023: Research Assistant, FONDECYT 11200290, Chile. [Project: Tracking Social Public Opinion: A Stream-Mining Based Approach](https://www.dcc.uchile.cl/investigacion/fondecyt/fbravo#proyectos_adjudicados). 
 * Jul 2021 - Jun 2023: Researcher Intern, [Millennium Institute for Foundational Research on Data](https://imfd.cl/), Chile. 
 * Jul 2021 - Jun 2023: Researcher Intern, [National Center for Artificial Intelligence](https://cenia.cl/), Chile.
 * March 2018 - September 2020: Director of I. T., [Beauchef Networking](https://www.linkedin.com/company/redesbeauchef/).
@@ -51,7 +52,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 * [CC6204] (TA) [Deep Learning](https://github.com/ivansipiran/CC6204-Deep-Learning) (spring 2022), Department of Computer Science, University of Chile.
 * [CC5205] (TA) [Data Mining](https://github.com/dccuchile/CC5205/) (fall 2022, fall 2023), Department of Computer Science, University of Chile.
 * [CC6205] (TA) [Natural Language Processing](https://github.com/dccuchile/CC6205) (fall 2022, fall 2023), Department of Computer Science, University of Chile.
-* [CC7910] (TA) Research in Computer Science (Methods, Techniques, Perspectives) (spring 2021, fall 2022, spring 2022, fall 2023, spring 2023, fall 2024), Department of Computer Science, University of Chile
+* [CC7910] (TA) Research in Computer Science (Methods, Techniques, Perspectives) (spring 2021, fall 2022, spring 2022, fall 2023, spring 2023, fall 2024, Spring 2024), Department of Computer Science, University of Chile
 * [IN6534] (TA) Introduction to Deep Learning (spring 2021), Department of Industrial Engineering, University of Chile.
 * [CC4102] (TA) Algorithm Design and Analysis (spring 2020, fall 2022, spring 2022, fall 2023), Department of Computer Science, University of Chile.
 * [CC4101] (TA) Programming Languages (spring 2020), Department of Computer Science, University of Chile.
