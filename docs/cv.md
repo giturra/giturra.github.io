@@ -4,8 +4,8 @@
 
 * Full name: Gabriel Emerson Iturra Bocaz
 * Nationality: Chile
-* E-mail: g.iturra.bocaz at gmail.com / gabrieliturrab at ug.uchile.cl
-* Public Profiles: [personal website](https://giturra.cl/), [IMFD](https://imfd.cl/investigador/gabriel-iturra/), [Google Scholar](https://scholar.google.com/citations?user=emd1wQkAAAAJ&hl=es), [LinkedIn](https://www.linkedin.com/in/giturra/), [GitHub](https://github.com/giturra/), [ResearchGate](https://www.researchgate.net/profile/Gabriel-Iturra-Bocaz), [Semantic Scholar](https://www.semanticscholar.org/author/Gabriel-Iturra-Bocaz/32830698), [Orcid](https://orcid.org/0009-0001-9635-0683), [Twitter](https://twitter.com/g_iturrab).
+* E-mail: g.iturra.bocaz at gmail.com
+* Public Profiles: [personal website](https://giturra.cl/), [Google Scholar](https://scholar.google.com/citations?user=emd1wQkAAAAJ&hl=es), [LinkedIn](https://www.linkedin.com/in/giturra/), [GitHub](https://github.com/giturra/), [ResearchGate](https://www.researchgate.net/profile/Gabriel-Iturra-Bocaz), [Semantic Scholar](https://www.semanticscholar.org/author/Gabriel-Iturra-Bocaz/32830698), [Orcid](https://orcid.org/0009-0001-9635-0683), [IMFD](https://imfd.cl/investigador/gabriel-iturra/), [Twitter](https://twitter.com/g_iturrab).
 * Areas of Interest: [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning), [Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval), [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model), [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
 <!--
@@ -89,6 +89,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ## Awards
 
+* [2024 - 2027] University of Stavanger Doctoral Scholarship. 
 * [2023] SIGIR Student Travel Grant to attend the [2023 SIGIR International Conference on Information Retrieval](https://sigir.org/sigir2023/) in Taipei, Taiwan.
 * [2016] Outstading Student in 2016.
 
@@ -130,4 +131,4 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 Gabriel Iturra-Bocaz
 
-Santiago, Chile August 5, 2024
+Santiago, Chile September 8, 2024
