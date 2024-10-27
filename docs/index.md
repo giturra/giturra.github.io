@@ -41,4 +41,4 @@ I specialize in the extraction of knowledge and information from unstructured da
 * [X](https://x.com/g_iturrab)
 * [LinkedIn](https://www.linkedin.com/in/giturra/)
 
-Last Updated September 8, 2024.
+Last Updated October 27, 2024.
