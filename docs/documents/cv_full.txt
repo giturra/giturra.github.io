@@ -11,7 +11,7 @@
 
 * Nationality: Chile
 
-* E-mail: g.iturra.bocaz at gmail.com
+* E-mail: gabriel.e.iturrabocaz at uis.no / g.iturra.bocaz at gmail.com
 
 * Public Profiles: [personal website](https://giturra.cl/), [Google Scholar](https://scholar.google.com/citations?user=emd1wQkAAAAJ&hl=es), [LinkedIn](https://www.linkedin.com/in/giturra/), [GitHub](https://github.com/giturra/), [ResearchGate](https://www.researchgate.net/profile/Gabriel-Iturra-Bocaz), [Semantic Scholar](https://www.semanticscholar.org/author/Gabriel-Iturra-Bocaz/32830698), [Orcid](https://orcid.org/0009-0001-9635-0683), [IMFD](https://imfd.cl/investigador/gabriel-iturra/), [Twitter](https://twitter.com/g_iturrab).
 
@@ -245,7 +245,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
     * Associate Professor at University of Stavanger.
 
-    * Contract: petra.galuscakova at uis.no
+    * Contact: petra.galuscakova at uis.no
 
 * [Felipe Bravo-Marquez](https://felipebravom.com/): 
 

@@ -4,7 +4,7 @@
 
 * Full name: Gabriel Emerson Iturra Bocaz
 * Nationality: Chile
-* E-mail: g.iturra.bocaz at gmail.com
+* E-mail: gabriel.e.iturrabocaz at uis.no / g.iturra.bocaz at gmail.com
 * Public Profiles: [personal website](https://giturra.cl/), [Google Scholar](https://scholar.google.com/citations?user=emd1wQkAAAAJ&hl=es), [LinkedIn](https://www.linkedin.com/in/giturra/), [GitHub](https://github.com/giturra/), [ResearchGate](https://www.researchgate.net/profile/Gabriel-Iturra-Bocaz), [Semantic Scholar](https://www.semanticscholar.org/author/Gabriel-Iturra-Bocaz/32830698), [Orcid](https://orcid.org/0009-0001-9635-0683), [IMFD](https://imfd.cl/investigador/gabriel-iturra/), [Twitter](https://twitter.com/g_iturrab).
 * Areas of Interest: [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning), [Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval), [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model), [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
@@ -121,7 +121,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 ## References
 * [Petra Galuscakova](https://galuscakova.github.io/)
     * Associate Professor at University of Stavanger.
-    * Contract: petra.galuscakova at uis.no
+    * Contact: petra.galuscakova at uis.no
 * [Felipe Bravo-Marquez](https://felipebravom.com/): 
     * Associate Professor, University of Chile. 
     * Contact: fbravo at dcc.uchile.cl
