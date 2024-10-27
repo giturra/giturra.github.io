@@ -24,7 +24,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ## Experience
 
-* Octuber 2024 - present: Research Fellow, [Information Access and Artificial Intelligence research group](https://iai.group/), University of Stavanger.
+* October 2024 - present: Research Fellow, [Information Access and Artificial Intelligence research group](https://iai.group/), University of Stavanger.
 * June 2024 - September 2024: GenAI Developer at [GlobalConexus](https://globalconexus.com/).
 * March 2024 - July 2024: Part-time Professor at [Department of Computer Science](https://dcc.uchile.cl/), University of Chile.
 * February 2024 - May 2024: Machine Learning Engineer at [Replai](https://replai.cl/) SpA.
@@ -119,15 +119,15 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 * English: Fluent (C1), Academic IETLS 7.0/9.0.
 
 ## References
+* [Petra Galuscakova](https://galuscakova.github.io/)
+    * Associate Professor at University of Stavanger.
+    * Contract: petra.galuscakova at uis.no
 * [Felipe Bravo-Marquez](https://felipebravom.com/): 
     * Associate Professor, University of Chile. 
     * Contact: fbravo at dcc.uchile.cl
 * [Claudio Gutierrez](https://www.dcc.uchile.cl/nosotros/academico/cgutierrez): 
-    * Full Professor, University of Chile. 
+    * Full Professor at University of Chile. 
     * Contact: cgutierr at dcc.uchile.cl
-* [Andres Abeliuk](https://aabeliuk.github.io/): 
-    * Assistant Professor, University of Chile.
-    * Contact: aabeliuk at dcc.uchile.cl
 
 Gabriel Iturra-Bocaz
 
