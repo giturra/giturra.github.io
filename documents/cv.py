@@ -1,5 +1,6 @@
 
 cv_file="../cv.md"
+print(cv_file)
 cv_md = open(cv_file, "r", encoding='utf-8')
 
 for cv_line in cv_md.readlines():
