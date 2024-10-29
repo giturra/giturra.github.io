@@ -40,5 +40,6 @@ I specialize in the extraction of knowledge and information from unstructured da
 * [IMFD](https://imfd.cl/investigador/gabriel-iturra/)
 * [X](https://x.com/g_iturrab)
 * [LinkedIn](https://www.linkedin.com/in/giturra/)
+* [UiS](https://www.uis.no/en/profile/gabriel-emeron-iturra-bocaz)
 
 Last Updated October 27, 2024.
