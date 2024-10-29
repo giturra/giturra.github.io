@@ -65,6 +65,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 ## Service
 
 * Program committee reviewer at [14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis](https://workshop-wassa.github.io/).
+* Journal Referee at Nature’s Scientific Reports.
 
 ## Short Courses
 
