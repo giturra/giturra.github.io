@@ -7,9 +7,7 @@
 
 Hello!
 
-I am Gabriel, and I hold a Master's degree in Computer Science from the [Department of Computer Science](https://www.dcc.uchile.cl/) at the University of Chile. My thesis focused on the study and implementation of incremental text representations under the supervision of Professor [Felipe Bravo-Marquez](https://felipebravom.com).
-
-Currently, I am living in Santiago, Chile, but I will be moving to Norway to pursue a PhD in Information Retrieval and Large Language Models.
+I am Gabriel, and I am pursuing a PhD in Information Retrieval and Large Language Models at the [University of Stavanger](https://uis.no/), Norway.
 
 My research interests encompass Information Retrieval, Large Language Models and Natural Language Processing. In my leisure time, I engage in physical exercise, especially biking, and I satisfy my curiosity by exploring new subjects through books and videos
 
@@ -28,7 +26,7 @@ I specialize in the extraction of knowledge and information from unstructured da
 
 ## Contact
 
-* Email Contact: g.iturra.bocaz at gmail.com
+* Email Contact: gabriel.e.iturrabocaz at uis.no / g.iturra.bocaz at gmail.com
 
 ## Other Profiles
 
