@@ -7,7 +7,7 @@
 
 Hello!
 
-I am Gabriel, I am a Ph.D. student in Computer Science at the [Information Access and Artificial Intelligence Research Group](https://iai.group/) at the University of Stavanger, supervised by [Petra Galuscakova](https://galuscakova.github.io/).
+I am Gabriel, and I am a Ph.D. student in Computer Science at the [Information Access and Artificial Intelligence Research Group](https://iai.group/) at the University of Stavanger, supervised by [Petra Galuscakova](https://galuscakova.github.io/).
 
 My research interests encompass Information Retrieval, Large Language Models and Natural Language Processing. In my leisure time, I engage in physical exercise, especially biking, and I satisfy my curiosity by exploring new subjects through books and videos
 
