@@ -8,7 +8,7 @@
 Hello!
 
 
-I am Gabriel, a Ph.D. student in Computer Science at the [Information Access and Artificial Intelligence Research Group](https://iai.group/) at the University of Stavanger, supervised by [Petra Galuscakova](https://galuscakova.github.io/).
+I am Gabriel, a Ph.D. student in Computer Science at the [Information Access and Artificial Intelligence Research Group](https://iai.group/) at the University of Stavanger, supervised by Dr. [Petra Galuscakova](https://galuscakova.github.io/).
 
 Previously, I was a member of the [Representations for Learning and Language Research Group](https://relela.com/) and earned both my bachelor's and master's degrees in Computer Science at the University of Chile, under the supervision of Dr. [Felipe Bravo-Marquez](https://felipebravom.com/). Our work focused on the study of Incremental Word Representation and Streaming Information.
 
