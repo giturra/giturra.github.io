@@ -77,6 +77,10 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 2. F. Vera, V. D. Cortés, G. Iturra, J. D. Velásquez, P. Maldonado and A. Couve, [Akori: A Tool Based in Eye-Tracking Techniques for Analyzing Web User Behaviour on a Web Site](https://ieeexplore.ieee.org/document/8215722) 2017 IEEE International Conference on Data Mining Workshops (ICDMW), 2017, pp. 635-640, doi: 10.1109/ICDMW.2017.90 ([pdf](https://giturra.cl/publications/akori.pdf)).
 
+## Supervision
+
+* [2024 - Ongoing] Dominykas Petniunas, co-supervised with Petra Galuscakova, Master in Computer Science, University of Stavanger.
+
 ## Thesis
 
 1. Master's Thesis (first five pages in Spanish): [RiverText A framework for training and evaluating Incremental Word Embeddings from Text Data Streams](https://repositorio.uchile.cl/handle/2250/196539) ([pdf](https://giturra.cl/documents/master-thesis.pdf)).
@@ -132,4 +136,4 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 Gabriel Iturra-Bocaz
 
-Santiago, Chile September 8, 2024
+Santiago, Chile September 8, 2024 q

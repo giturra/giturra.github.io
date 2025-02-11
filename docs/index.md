@@ -43,4 +43,4 @@ I specialize in the extraction of knowledge and information from unstructured da
 * [LinkedIn](https://www.linkedin.com/in/giturra/)
 * [UiS](https://www.uis.no/en/profile/gabriel-emeron-iturra-bocaz)
 
-Last Updated October 27, 2024.
+Last Updated December 17, 2024.

@@ -156,6 +156,14 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 
 
+## Supervision
+
+
+
+* [2024 - Ongoing] Dominykas Petniunas, co-supervised with Petra Galuscakova, Master in Computer Science, University of Stavanger.
+
+
+
 ## Thesis
 
 
@@ -266,4 +274,4 @@ Gabriel Iturra-Bocaz
 
 
 
-Santiago, Chile September 8, 2024
+Santiago, Chile September 8, 2024 q
