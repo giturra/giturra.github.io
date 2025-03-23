@@ -52,7 +52,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 * [CC6204] (TA) [Deep Learning](https://github.com/ivansipiran/CC6204-Deep-Learning) (spring 2022), Department of Computer Science, University of Chile.
 * [CC5205] (TA) [Data Mining](https://github.com/dccuchile/CC5205/) (fall 2022, fall 2023), Department of Computer Science, University of Chile.
 * [CC6205] (TA) [Natural Language Processing](https://github.com/dccuchile/CC6205) (fall 2022, fall 2023), Department of Computer Science, University of Chile.
-* [CC7910] (TA) Research in Computer Science (Methods, Techniques, Perspectives) (spring 2021, fall 2022, spring 2022, fall 2023, spring 2023, fall 2024, Spring 2024, fall 2025), Department of Computer Science, University of Chile
+* [CC7910] (TA) Research in Computer Science (Methods, Techniques, Perspectives) (spring 2021, fall 2022, spring 2022, fall 2023, spring 2023, fall 2024, spring 2024, fall 2025), Department of Computer Science, University of Chile
 * [IN6534] (TA) Introduction to Deep Learning (spring 2021), Department of Industrial Engineering, University of Chile.
 * [CC4102] (TA) Algorithm Design and Analysis (spring 2020, fall 2022, spring 2022, fall 2023), Department of Computer Science, University of Chile.
 * [CC4101] (TA) Programming Languages (spring 2020), Department of Computer Science, University of Chile.
