@@ -30,7 +30,7 @@ nav:
 
     - Blog: blog.md
 
-copyright: Copyright &copy; 2021 - 2024 Gabriel Iturra-Bocaz
+copyright: Copyright &copy; 2021 - 2025 Gabriel Iturra-Bocaz
 
 extra:
   social:
@@ -41,7 +41,7 @@ extra:
         - icon: fontawesome/brands/x-twitter
           link: https://twitter.com/g_iturrab
         - icon: fontawesome/brands/instagram
-          link: https://www.instagram.com/gabriel.iturra.b/
+          link: https://www.instagram.com/ilovethedoggos1/
   generator: false
 
 markdown_extensions:
