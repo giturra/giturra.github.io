@@ -122,6 +122,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 * Spanish: Native.
 * English: Fluent (C1), Academic IETLS 7.0/9.0.
+* Norwegian: Basic proficiency (A1/A2, currently improving)
 
 ## References
 * [Petra Galuscakova](https://galuscakova.github.io/)
@@ -136,4 +137,4 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 Gabriel Iturra-Bocaz
 
-Santiago, Chile March 11, 2025
+Stavanger, Norway March 23, 2025
