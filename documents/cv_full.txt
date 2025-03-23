@@ -34,15 +34,15 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 
 
-* PhD. Computer Science, University of Stavanger (Ongoing)
+* PhD. Computer Science, University of Stavanger (Ongoing).
 
-* [MSc. Computer Science](https://giturra.cl/documents/titles/master.pdf), University of Chile (2023)
+* [MSc. Computer Science](https://giturra.cl/documents/titles/master.pdf), University of Chile (2023).
 
-* [Computer Science Engineer](https://giturra.cl/documents/titles/engineering.pdf), University of Chile (2021)
+* [Computer Science Engineer](https://giturra.cl/documents/titles/engineering.pdf), University of Chile (2021).
 
 * [BSc. Computer Science](https://giturra.cl/documents/titles/bachelor.pdf), University of Chile (2020)
 
-* BSc. in Industrial Engineering, University of Chile (2019)
+* BSc. in Industrial Engineering, University of Chile (2019).
 
 
 
@@ -50,7 +50,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 
 
-* October 2024 - present: Research Fellow, [Information Access and Artificial Intelligence research group](https://iai.group/), University of Stavanger.
+* November 2024 - present: Research Fellow, [Information Access and Artificial Intelligence research group](https://iai.group/), University of Stavanger.
 
 * June 2024 - September 2024: GenAI Developer at [GlobalConexus](https://globalconexus.com/).
 
@@ -58,7 +58,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 * February 2024 - May 2024: Machine Learning Engineer at [Replai](https://replai.cl/) SpA.
 
-* August 2023 - December 2023: Part-Time Professor at [Master of Data Science](https://mds.uchile.cl/), University of Chile.
+* August 2023 - December 2023: Part-time Professor at [Master of Data Science](https://mds.uchile.cl/), University of Chile.
 
 * Jul 2021 - Jun 2023: Research Assistant, FONDECYT 11200290, Chile. [Project: Tracking Social Public Opinion: A Stream-Mining Based Approach](https://www.dcc.uchile.cl/investigacion/fondecyt/fbravo#proyectos_adjudicados). 
 
@@ -106,7 +106,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 * [CC6205] (TA) [Natural Language Processing](https://github.com/dccuchile/CC6205) (fall 2022, fall 2023), Department of Computer Science, University of Chile.
 
-* [CC7910] (TA) Research in Computer Science (Methods, Techniques, Perspectives) (spring 2021, fall 2022, spring 2022, fall 2023, spring 2023, fall 2024, Spring 2024), Department of Computer Science, University of Chile
+* [CC7910] (TA) Research in Computer Science (Methods, Techniques, Perspectives) (spring 2021, fall 2022, spring 2022, fall 2023, spring 2023, fall 2024, Spring 2024, fall 2025), Department of Computer Science, University of Chile
 
 * [IN6534] (TA) Introduction to Deep Learning (spring 2021), Department of Industrial Engineering, University of Chile.
 
@@ -246,7 +246,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 * English: Fluent (C1), Academic IETLS 7.0/9.0.
 
-* Norwegian: Basic proficiency (A1/A2, currently improving)
+* Norwegian: Basic proficiency (A1/A2, currently improving).
 
 
 
