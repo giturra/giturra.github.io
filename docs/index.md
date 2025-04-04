@@ -1,6 +1,6 @@
 # Hi there 👌 I'm Gabriel Iturra-Bocaz
 
-<img src="img/me3.jpg" alt="alt text" width="45%" height="45%"> 
+<img src="img/me_ghilbi.jpg" alt="alt text" width="45%" height="45%"> 
 
 ## Biography
 
