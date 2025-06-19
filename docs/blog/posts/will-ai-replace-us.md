@@ -52,12 +52,8 @@ $$p(w_1, w_2, ..., w_n) = p(w_1) \times p(w_2|w_1) \times p(w_3|w_2) \times ... 
 
 With these changes, processing and training statistical language models become more tractable using computer resources. In Figure is possible to visualize how probability can be scored. However, these models present several limitations, including difficulty in processing long contexts and an inability to detect similar textual contexts.
 
-\begin{figure*}[h]
-  \centering
-  \includegraphics[width=0.7\textwidth]{images/HMMGraph.svg.png}
-  \caption{\textbf{HMM example from Wikipedia.}}
-  \label{fig:hmm}
-\end{figure*}
+<img src="http://127.0.0.1:8000/img/blog/ai-will-replace-us/HMMGraph.svg.png" alt="Transparent PNG" width="500"  />
+
 
 ### Neural Language Models
 
@@ -71,14 +67,9 @@ Word embeddings are dense, low-dimensional vector representations of words that 
 
 The benefit of this approach is that the vector space, based on the vocabulary of the text corpus, allows us to mathematically measure whether two words are similar using properties such as distance functions, including cosine similarity. For example, the figure shows that the word vectors capture both syntactic and semantic similarities in the language.
 
-\begin{figure*}[h]
-  \centering
-  \includegraphics[width=.9\textwidth]{images/we.png}
-  \caption{\textbf{Vectorial space built by Word Embeddings.}}
-  \label{fig:hmm}
-\end{figure*}
+<img src="http://127.0.0.1:8000/img/blog/ai-will-replace-us/we.png" alt="Transparent PNG" width="600"  />
 
-However, Word Embeddings present two important limitations, which 
+However, Word Embeddings present two important limitations, which are:
 
 * Word Embeddings are static vector representation that assign the same vector to a word regardless of its context, conflating multiple meanings (polysemy). For example, the word bank can be used in language as bank institution, but at the same time as river edge.
 * Word Embeddings struggle to handle rare words or Out-of-vocabulary (OOV) words (words not seen during training get random vectors), assigning not good representations to these words.
