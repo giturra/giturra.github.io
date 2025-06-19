@@ -52,7 +52,7 @@ $$p(w_1, w_2, ..., w_n) = p(w_1) \times p(w_2|w_1) \times p(w_3|w_2) \times ... 
 
 With these changes, processing and training statistical language models become more tractable using computer resources. In Figure is possible to visualize how probability can be scored. However, these models present several limitations, including difficulty in processing long contexts and an inability to detect similar textual contexts.
 
-<img src="http://127.0.0.1:8000/img/blog/ai-will-replace-us/HMMGraph.svg.png" alt="Transparent PNG" width="500"  />
+<img src="http://giturra.cl/img/blog/ai-will-replace-us/HMMGraph.svg.png" alt="Transparent PNG" width="500"  />
 
 
 ### Neural Language Models
@@ -67,7 +67,7 @@ Word embeddings are dense, low-dimensional vector representations of words that 
 
 The benefit of this approach is that the vector space, based on the vocabulary of the text corpus, allows us to mathematically measure whether two words are similar using properties such as distance functions, including cosine similarity. For example, the figure shows that the word vectors capture both syntactic and semantic similarities in the language.
 
-<img src="http://127.0.0.1:8000/img/blog/ai-will-replace-us/we.png" alt="Transparent PNG" width="600"  />
+<img src="http://giturra.cl/img/blog/ai-will-replace-us/we.png" alt="Transparent PNG" width="600"  />
 
 However, Word Embeddings present two important limitations, which are:
 
