@@ -407,24 +407,14 @@
 <p>However, computing the probabilities of this formula can be really computationally expensive when a long sentence is found in a corpus of text. To address this limitation, researchers have used the Markov assumption, which restricts the amount of memory of previous words needed to predict the next word. Reducing the formula to this:</p>
 <p>$$p(w_1, w_2, ..., w_n) = p(w_1) \times p(w_2|w_1) \times p(w_3|w_2) \times ... \times p(w_n|w_{n-1})$$</p>
 <p>With these changes, processing and training statistical language models become more tractable using computer resources. In Figure is possible to visualize how probability can be scored. However, these models present several limitations, including difficulty in processing long contexts and an inability to detect similar textual contexts.</p>
-<p>\begin{figure<em>}[h]
-  \centering
-  \includegraphics[width=0.7\textwidth]{images/HMMGraph.svg.png}
-  \caption{\textbf{HMM example from Wikipedia.}}
-  \label{fig:hmm}
-\end{figure</em>}</p>
+<p><img src="http://127.0.0.1:8000/img/blog/ai-will-replace-us/HMMGraph.svg.png" alt="Transparent PNG" width="500"  /></p>
 <h4 id="neural-language-models"><a class="toclink" href="../../2025/06/18/will-ai-replace-us-the-role-of-llms-in-writing-and-coding/#neural-language-models">Neural Language Models</a></h4>
 <p>Neural Language Models (NLMs) \cite{jing2019survey} introduce a paradigm shift against stadistical LMs to face their limitation such issues to process long sentences and long texual contexts. These models learn distributed representations of words (called word embeddings \cite{goldberg2014word2vec}) and predict the probability distribution of the next word in a sequence of words or sentence. Unlike statistical LMs that rely on explicit counts of word combinations, NLMs learn latent features and capture patterns from from data.</p>
 <h4 id="word-embeddings"><a class="toclink" href="../../2025/06/18/will-ai-replace-us-the-role-of-llms-in-writing-and-coding/#word-embeddings">Word Embeddings</a></h4>
 <p>Word embeddings are dense, low-dimensional vector representations of words that capture semantic (meaning-based) and syntactic (grammar-based) relationships \cite{goldberg2014word2vec}. Consequently, these model map words to continuous vectors where similar words are closer in the vector space.</p>
 <p>The benefit of this approach is that the vector space, based on the vocabulary of the text corpus, allows us to mathematically measure whether two words are similar using properties such as distance functions, including cosine similarity. For example, the figure shows that the word vectors capture both syntactic and semantic similarities in the language.</p>
-<p>\begin{figure<em>}[h]
-  \centering
-  \includegraphics[width=.9\textwidth]{images/we.png}
-  \caption{\textbf{Vectorial space built by Word Embeddings.}}
-  \label{fig:hmm}
-\end{figure</em>}</p>
-<p>However, Word Embeddings present two important limitations, which </p>
+<p><img src="http://127.0.0.1:8000/img/blog/ai-will-replace-us/we.png" alt="Transparent PNG" width="600"  /></p>
+<p>However, Word Embeddings present two important limitations, which are:</p>
 <ul>
 <li>Word Embeddings are static vector representation that assign the same vector to a word regardless of its context, conflating multiple meanings (polysemy). For example, the word bank can be used in language as bank institution, but at the same time as river edge.</li>
 <li>Word Embeddings struggle to handle rare words or Out-of-vocabulary (OOV) words (words not seen during training get random vectors), assigning not good representations to these words.</li>
