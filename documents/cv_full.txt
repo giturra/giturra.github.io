@@ -156,9 +156,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 
 
-1. **G. Iturra-Bocaz**, D. Vo and P. Galuščáková [Impact of Shallow vs. Deep Relevance Judgments on BERT-based
-
-Reranking Models](https://dl.acm.org/doi/10.1145/3731120.3744602). Proceedings of the 2025 International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR), Padua, Italy. Association for Computing Machinery. DOI:10.1145/3731120.3744602 ([soon]()).
+1. **G. Iturra-Bocaz**, D. Vo and P. Galuščáková [Impact of Shallow vs. Deep Relevance Judgments on BERT-based Reranking Models](https://dl.acm.org/doi/10.1145/3731120.3744602). Proceedings of the 2025 International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR), Padua, Italy. Association for Computing Machinery. DOI:10.1145/3731120.3744602 ([soon]()).
 
 
 
