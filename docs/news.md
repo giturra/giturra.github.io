@@ -2,7 +2,7 @@
 
 ## 2025
 
-- 10-24/06/2025: I have attended the NORA Summer School and completed the course "Generative AI for Synthetic Data: Applications in Machine Learning".
+- 10-14/06/2025: I have attended the NORA Summer School and completed the course "Generative AI for Synthetic Data: Applications in Machine Learning".
 
 ## 2024
 
