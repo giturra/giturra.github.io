@@ -1,5 +1,9 @@
 # News
 
+## 2025
+
+- 10-24/06/2025: I have attended the NORA Summer School and completed the course "Generative AI for Synthetic Data: Applications in Machine Learning".
+
 ## 2024
 
 - 23/10/2024: I have started my PhD in Information Retrieval and Large Language Models under the supervision of Dr Petra Galuscakova.
