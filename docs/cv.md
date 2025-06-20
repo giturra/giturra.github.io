@@ -145,4 +145,4 @@ Reranking Models](https://dl.acm.org/doi/10.1145/3731120.3744602). Proceedings o
 
 Gabriel Iturra-Bocaz
 
-Stavanger, Norway June 18, 2025
+Stavanger, Norway June 20, 2025
