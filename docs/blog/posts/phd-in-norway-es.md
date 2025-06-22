@@ -7,7 +7,7 @@ categories:
 
 # Ser estudiante de doctorado en Ciencias de la Computación en Noruega
 
-Han pasado casi ocho meses desde que comencé mi puesto de doctorado en la Universidad de Stavanger en Noruega, y también ha pasado bastante tiempo desde mi última publicación en el blog. Por eso, decidí escribir esta entrada para explicar cómo conseguí mi puesto de doctorado y las razones detrás de mi decisión de venir a un país tan hermoso como Noruega. Además, esta es mi primera publicación en inglés, así que algunas expresiones o ideas podrían no estar perfectamente escritas. Si algo no queda claro, por favor házmelo saber, siempre estoy interesado en mejorar mi inglés :)
+Han pasado casi ocho meses desde que comencé mi puesto de doctorado en la Universidad de Stavanger en Noruega, y también ha pasado bastante tiempo desde mi última publicación en el blog. Por eso, decidí escribir esta entrada para explicar cómo conseguí mi puesto de doctorado y las razones detrás de mi decisión de venir a un país tan hermoso como Noruega.
 
 También es relevante destacar que esta publicación está principalmente dirigida a estudiantes que estén interesados en realizar un doctorado en Ciencias de la Computación o Inteligencia Artificial (IA), que son los campos en los que actualmente investigo. Sin embargo, algunos de los puntos que menciono aquí pueden aplicarse también a otras áreas. Por lo tanto, si buscas realizar investigación en otros campos específicos en Noruega, esta publicación aún podría ser relevante para ti :D
 
