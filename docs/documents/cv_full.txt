@@ -188,7 +188,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 
 
-1. [Relevance Jugdements](https://github.com/iai-group/ictir2025-relevance): Official repostory from the paper Impact of Shallow vs. Deep Relevance Judgments on BERT-based Reranking Models (as main maintainer).
+1. [Relevance Jugdements](https://github.com/iai-group/ictir2025-relevance): Official repostory from the paper Impact of Shallow vs. Deep Relevance Judgments on BERT-based Reranking Models (as maintainer).
 
 2. [RiverText](https://github.com/dccuchile/rivertext): A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Streams (as main developer).
 
