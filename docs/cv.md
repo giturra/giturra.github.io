@@ -93,7 +93,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ## Projects
 
-1. [Relevance Jugdements](https://github.com/iai-group/ictir2025-relevance): Official repostory from the paper Impact of Shallow vs. Deep Relevance Judgments on BERT-based Reranking Models (as main developer).
+1. [Relevance Jugdements](https://github.com/iai-group/ictir2025-relevance): Official repostory from the paper Impact of Shallow vs. Deep Relevance Judgments on BERT-based Reranking Models (as main maintainer).
 2. [RiverText](https://github.com/dccuchile/rivertext): A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Streams (as main developer).
 3. [MDS7202](https://github.com/MDS7202/MDS7202/) Official repository from the Data Science Laboratory course at the Data Science Master Program at the University of Chile (as lecturer).
 4. [CC66Q](https://github.com/fvillena/dcc-ia-nlp) Official repository for the Natural Language Processing module in the Artificial Intelligence Diploma Program at the University of Chile (as Teaching Assistant).
