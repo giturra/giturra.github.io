@@ -77,7 +77,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 1. W. Łajewska, I. Kostric, **G. Iturra-Bocaz**, M. Arustashvili and K. Balog [UiS-IAI@LiveRAG: Retrieval-Augmented Information Nugget-Based Generation of Responses]() ([soon]()).
 
-2. **G. Iturra-Bocaz**, D. Vo and P. Galuščáková [Impact of Shallow vs. Deep Relevance Judgments on BERT-based Reranking Models](https://dl.acm.org/doi/10.1145/3731120.3744602). Proceedings of the 2025 International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR), Padua, Italy. Association for Computing Machinery. DOI:10.1145/3731120.3744602 ([soon]()).
+2. **G. Iturra-Bocaz**, D. Vo and P. Galuščáková [Impact of Shallow vs. Deep Relevance Judgments on BERT-based Reranking Models](https://dl.acm.org/doi/10.1145/3731120.3744602). Proceedings of the 2025 International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR), Padua, Italy. Association for Computing Machinery. DOI:10.1145/3731120.3744602 ([pdf](https://giturra.cl/publications/ictir2025_relevance_judgments.pdf)).
 
 3. **G. Iturra-Bocaz** and F. Bravo-Marquez [RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Stream](https://dl.acm.org/doi/10.1145/3539618.3591908). In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), Taipei, Taiwan. Association for Computing Machinery. Pages 3027–3036. DOI:10.1145/3539618.3591908 ([pdf](https://giturra.cl/publications/rivertext.pdf))([poster](https://giturra.cl/documents/rivertext_poster.pdf)).
 
