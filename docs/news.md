@@ -3,6 +3,8 @@
 ## 2025
 
 - 10-14/06/2025: I have attended the NORA Summer School and completed the course "Generative AI for Synthetic Data: Applications in Machine Learning".
+- 06/06/2025: Our paper "Impact of Shallow vs. Deep Relevance Judgments on BERT-based Reranking Models" was accepted at in  the Proceedings of the 2025 International ACM SIGIR Conference on Innovative
+Concepts and Theories in Information Retrieval (ICTIR ’25).
 
 ## 2024
 
