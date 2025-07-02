@@ -75,7 +75,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ## Publications
 
-1. W. Łajewska, I. Kostric, **G. Iturra-Bocaz**, M. Arustashvili and K. Balog [UiS-IAI@LiveRAG: Retrieval-Augmented Information Nugget-Based Generation of Responses]() ([soon]()).
+1. W. Łajewska, I. Kostric, **G. Iturra-Bocaz**, M. Arustashvili and K. Balog [UiS-IAI@LiveRAG: Retrieval-Augmented Information Nugget-Based Generation of Responses]() ([pdf](https://giturra.cl/publications/liverag2025.pdf)).
 
 2. **G. Iturra-Bocaz**, D. Vo and P. Galuščáková [Impact of Shallow vs. Deep Relevance Judgments on BERT-based Reranking Models](https://dl.acm.org/doi/10.1145/3731120.3744602). Proceedings of the 2025 International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR) (ICTIR 2025), Padua, Italy. Association for Computing Machinery. DOI:10.1145/3731120.3744602 ([pdf](https://giturra.cl/publications/ictir2025_relevance_judgments.pdf)).
 
