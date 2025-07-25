@@ -41,8 +41,9 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ## Teaching
 
+
+* [MDS7202] (Lecturer) [Data Science Laboratory](https://github.com/MDS7202/MDS7202/) (spring 2023, spring 2025), Postgraduate School, University of Chile.
 * [CC5205] (Lecturer) [Data Mining](https://github.com/dccuchile/CC5205/) (fall 2024), Department of Computer Science, University of Chile.
-* [MDS7202] (Lecturer) [Data Science Laboratory](https://github.com/MDS7202/MDS7202/) (spring 2023), Postgraduate School, University of Chile.
 * [CC66E] (Lecturer) [Data Mining] (fall 2024),  Continual Education Program,  Department of Computer Science, University of Chile.
 * [CC66S] (TA) Machine Learning (Spring 2023), Continual Education Program,  Department of Computer Science, University of Chile.
 * [CC66Q] (TA) [Natural Language Processing](https://github.com/fvillena/dcc-ia-nlp) (spring 2023, fall 2024),  Continual Education Program,  Department of Computer Science, University of Chile.
@@ -75,7 +76,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ## Publications
 
-1. W. Łajewska, I. Kostric, **G. Iturra-Bocaz**, M. Arustashvili and K. Balog [UiS-IAI@LiveRAG: Retrieval-Augmented Information Nugget-Based Generation of Responses]() ([pdf](https://giturra.cl/publications/liverag2025.pdf)).
+1. Łajewska, W., Kostric, I., **Iturra-Bocaz, G.**, Arustashvili, M., & Balog, K. (2025). [UiS-IAI@LiveRAG: Retrieval-Augmented Information Nugget-Based Generation of Responses](https://arxiv.org/abs/2506.22210). arXiv preprint arXiv:2506.22210 ([pdf](https://giturra.cl/publications/liverag2025.pdf)).
 
 2. **G. Iturra-Bocaz**, D. Vo and P. Galuščáková [Impact of Shallow vs. Deep Relevance Judgments on BERT-based Reranking Models](https://dl.acm.org/doi/10.1145/3731120.3744602). Proceedings of the 2025 International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR) (ICTIR 2025), Padua, Italy. Association for Computing Machinery. DOI:10.1145/3731120.3744602 ([pdf](https://giturra.cl/publications/ictir2025_relevance_judgments.pdf))([poster](https://giturra.cl/documents/posters/ictir2025.pdf)).
 
