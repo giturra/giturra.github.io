@@ -83,12 +83,12 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 3. **G. Iturra-Bocaz** and F. Bravo-Marquez [RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Stream](https://dl.acm.org/doi/10.1145/3539618.3591908). In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), Taipei, Taiwan. Association for Computing Machinery. Pages 3027–3036. DOI:10.1145/3539618.3591908 ([pdf](https://giturra.cl/publications/rivertext.pdf))([poster](https://giturra.cl/documents/posters/sigir2023.pdf)).
 
-4. F. Vera, V. D. Cortés, **G. Iturra**, J. D. Velásquez, P. Maldonado and A. Couve, [Akori: A Tool Based in Eye-Tracking Techniques for Analyzing Web User Behaviour on a Web Site](https://ieeexplore.ieee.org/document/8215722) 2017 IEEE International Conference on Data Mining Workshops (ICDMW), 2017, pp. 635-640, doi: 10.1109/ICDMW.2017.90 ([pdf](https://giturra.cl/publications/akori.pdf)).
 
 ### Workshop papers
 
 1. Łajewska, W., Kostric, I., **Iturra-Bocaz, G.**, Arustashvili, M., & Balog, K. (2025). [UiS-IAI@LiveRAG: Retrieval-Augmented Information Nugget-Based Generation of Responses](https://arxiv.org/abs/2506.22210). arXiv preprint arXiv:2506.22210 ([pdf](https://giturra.cl/publications/liverag2025.pdf)).
 
+4. F. Vera, V. D. Cortés, **G. Iturra**, J. D. Velásquez, P. Maldonado and A. Couve, [Akori: A Tool Based in Eye-Tracking Techniques for Analyzing Web User Behaviour on a Web Site](https://ieeexplore.ieee.org/document/8215722) 2017 IEEE International Conference on Data Mining Workshops (ICDMW), 2017, pp. 635-640, doi: 10.1109/ICDMW.2017.90 ([pdf](https://giturra.cl/publications/akori.pdf)).
 
 
 ## Supervision
