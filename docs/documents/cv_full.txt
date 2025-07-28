@@ -154,7 +154,9 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 
 
-1. Łajewska, W., Kostric, I., **Iturra-Bocaz, G.**, Arustashvili, M., & Balog, K. (2025). [UiS-IAI@LiveRAG: Retrieval-Augmented Information Nugget-Based Generation of Responses](https://arxiv.org/abs/2506.22210). arXiv preprint arXiv:2506.22210 ([pdf](https://giturra.cl/publications/liverag2025.pdf)).
+
+
+### Conference papers
 
 
 
@@ -170,6 +172,18 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 
 
+### Workshop papers
+
+
+
+1. Łajewska, W., Kostric, I., **Iturra-Bocaz, G.**, Arustashvili, M., & Balog, K. (2025). [UiS-IAI@LiveRAG: Retrieval-Augmented Information Nugget-Based Generation of Responses](https://arxiv.org/abs/2506.22210). arXiv preprint arXiv:2506.22210 ([pdf](https://giturra.cl/publications/liverag2025.pdf)).
+
+
+
+
+
+
+
 ## Supervision
 
 
@@ -178,7 +192,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 
 
-## Thesis
+## Books
 
 
 
