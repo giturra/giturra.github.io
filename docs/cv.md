@@ -153,4 +153,4 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 Gabriel Iturra-Bocaz
 
-Stavanger, Norway June 20, 2025
+Stavanger, Norway July 28, 2025
