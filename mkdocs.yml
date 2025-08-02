@@ -26,7 +26,8 @@ nav:
     - Bio: bio.md
     - CV: 
         - 'Web Format': cv.md
-        - 'PDF': 'documents/cv_full.pdf'
+        - 'Full CV PDF': 'documents/cv_full.pdf'
+        - 'Short CV PDF': 'documents/short_cv.pdf'
 
     - Blog: blog.md
 
