@@ -302,7 +302,7 @@ task 3 on fact-checking numerical claims ([pdf](https://giturra.cl/publications/
 
     * Associate Professor at University of Stavanger.
 
-    * Contact: alvaro.f.quilez@uis.no
+    * Contact: alvaro.f.quilez at uis.no
 
 * [Felipe Bravo-Marquez](https://felipebravom.com/): 
 
