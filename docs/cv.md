@@ -65,6 +65,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ## Service
 
+* [ECIR'26](https://ecir2026.eu/) Short Papers PC member, reviewer (Nov 2025)
 * Program committee reviewer at [14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis](https://workshop-wassa.github.io/).
 * Journal Referee at Nature’s Scientific Reports ([Certificate](https://giturra.cl/documents/reviewer.pdf)).
 
@@ -75,7 +76,6 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 * [NORA Summer Research School](https://www.nora.ai/nora-research-school/education-programs/summer-school/summer-school-2025/), Generative AI for Synthetic Data: Applications in Machine Learning (5 ECTS), 10-14 June, 2025, Østfold University, Campus Fredrikstad, Norway.  
 
 ## Publications
-
 
 ### Conference papers
 
@@ -97,7 +97,7 @@ task 3 on fact-checking numerical claims ([pdf](https://giturra.cl/publications/
 
 ## Supervision
 
-* [2025 - Ongoing] Dominykas Petniunas, co-supervised with Petra Galuscakova, Master in Computer Science, University of Stavanger.
+* [2025] Dominykas Petniunas, co-supervised with Petra Galuscakova, Master in Computer Science, University of Stavanger.
 
 ## Books
 
@@ -148,13 +148,13 @@ task 3 on fact-checking numerical claims ([pdf](https://giturra.cl/publications/
 * [Petra Galuscakova](https://galuscakova.github.io/)
     * Associate Professor at University of Stavanger.
     * Contact: petra.galuscakova at uis.no
+* [Alvaro Fernandez-Quilez](https://www.uis.no/nb/profile/alvaro-fernandez-quilez)
+    * Associate Professor at University of Stavanger.
+    * Contact: alvaro.f.quilez@uis.no
 * [Felipe Bravo-Marquez](https://felipebravom.com/): 
     * Associate Professor at University of Chile. 
     * Contact: fbravo at dcc.uchile.cl
-* [Claudio Gutierrez](https://www.dcc.uchile.cl/nosotros/academico/cgutierrez): 
-    * Full Professor at University of Chile. 
-    * Contact: cgutierr at dcc.uchile.cl
 
 Gabriel Iturra-Bocaz
 
-Stavanger, Norway July 28, 2025
+Stavanger, Norway October 5, 2025
