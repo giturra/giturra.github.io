@@ -178,7 +178,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 F., **Iturra-Bocaz, G.**, Galuáková, P.: Overview of the CLEF-2025 CheckThat! lab
 
-task 3 on fact-checking numerical claims ([pdf](https://giturra.cl/publications/clef2025.pdf))
+task 3 on fact-checking numerical claims ([pdf](https://giturra.cl/publications/clef2025.pdf)).
 
 
 
