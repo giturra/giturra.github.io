@@ -79,16 +79,20 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ### Conference papers
 
-2. **G. Iturra-Bocaz**, D. Vo and P. Galuščáková [Impact of Shallow vs. Deep Relevance Judgments on BERT-based Reranking Models](https://dl.acm.org/doi/10.1145/3731120.3744602). Proceedings of the 2025 International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR) (ICTIR 2025), Padua, Italy. Association for Computing Machinery. DOI:10.1145/3731120.3744602 ([pdf](https://giturra.cl/publications/ictir2025_relevance_judgments.pdf))([poster](https://giturra.cl/documents/posters/ictir2025.pdf)).
+2. **G. Iturra-Bocaz**, D. Vo and P. Galuščáková [Impact of Shallow vs. Deep Relevance Judgments on BERT-based Reranking Models](https://dl.acm.org/doi/10.1145/3731120.3744602). Proceedings of the 2025 International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR) (ICTIR 2025), Padua, Italy. Association for Computing Machinery. DOI:10.1145/3731120.3744602 ([pdf](https://giturra.cl/publications/ictir2025.pdf))([poster](https://giturra.cl/documents/posters/ictir2025.pdf)).
 
 3. **G. Iturra-Bocaz** and F. Bravo-Marquez [RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Stream](https://dl.acm.org/doi/10.1145/3539618.3591908). In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), Taipei, Taiwan. Association for Computing Machinery. Pages 3027–3036. DOI:10.1145/3539618.3591908 ([pdf](https://giturra.cl/publications/rivertext.pdf))([poster](https://giturra.cl/documents/posters/sigir2023.pdf)).
 
 
 ### Workshop papers
 
-1. Łajewska, W., Kostric, I., **Iturra-Bocaz, G.**, Arustashvili, M., & Balog, K. (2025). [UiS-IAI@LiveRAG: Retrieval-Augmented Information Nugget-Based Generation of Responses](https://arxiv.org/abs/2506.22210). arXiv preprint arXiv:2506.22210 ([pdf](https://giturra.cl/publications/liverag2025.pdf)).
+1. Venktesh, V., Setty, V., Anand, A., Hasanain, M., Bendou, B., Bouamor, H., Alam,
+F., **Iturra-Bocaz, G.**, Galuáková, P.: Overview of the CLEF-2025 CheckThat! lab
+task 3 on fact-checking numerical claims ([pdf](https://giturra.cl/publications/clef2025.pdf))
 
-4. F. Vera, V. D. Cortés, **G. Iturra**, J. D. Velásquez, P. Maldonado and A. Couve, [Akori: A Tool Based in Eye-Tracking Techniques for Analyzing Web User Behaviour on a Web Site](https://ieeexplore.ieee.org/document/8215722) 2017 IEEE International Conference on Data Mining Workshops (ICDMW), 2017, pp. 635-640, doi: 10.1109/ICDMW.2017.90 ([pdf](https://giturra.cl/publications/akori.pdf)).
+2. Łajewska, W., Kostric, I., **Iturra-Bocaz, G.**, Arustashvili, M., & Balog, K. (2025). [UiS-IAI@LiveRAG: Retrieval-Augmented Information Nugget-Based Generation of Responses](https://arxiv.org/abs/2506.22210). arXiv preprint arXiv:2506.22210 ([pdf](https://giturra.cl/publications/liverag2025.pdf)).
+
+3. F. Vera, V. D. Cortés, **G. Iturra**, J. D. Velásquez, P. Maldonado and A. Couve, [Akori: A Tool Based in Eye-Tracking Techniques for Analyzing Web User Behaviour on a Web Site](https://ieeexplore.ieee.org/document/8215722) 2017 IEEE International Conference on Data Mining Workshops (ICDMW), 2017, pp. 635-640, doi: 10.1109/ICDMW.2017.90 ([pdf](https://giturra.cl/publications/akori.pdf)).
 
 
 ## Supervision
