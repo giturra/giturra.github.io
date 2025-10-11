@@ -2,7 +2,7 @@
 
 ## Personal Information
 
-* Full name: Gabriel Emerson Iturra Bocaz
+* Full name: Gabriel Iturra-Bocaz
 * Nationality: Chile
 * E-mail: gabriel.e.iturrabocaz at uis.no / g.iturra.bocaz at gmail.com
 * Public Profiles: [personal website](https://giturra.cl/), [Google Scholar](https://scholar.google.com/citations?user=emd1wQkAAAAJ&hl=es), [UiS](https://www.uis.no/en/profile/gabriel-emeron-iturra-bocaz), [LinkedIn](https://www.linkedin.com/in/giturra/), [GitHub](https://github.com/giturra/), [ResearchGate](https://www.researchgate.net/profile/Gabriel-Iturra-Bocaz), [Semantic Scholar](https://www.semanticscholar.org/author/Gabriel-Iturra-Bocaz/32830698), [Orcid](https://orcid.org/0009-0001-9635-0683), [IMFD](https://imfd.cl/investigador/gabriel-iturra/), [Twitter](https://twitter.com/g_iturrab).
