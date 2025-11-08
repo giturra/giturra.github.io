@@ -80,9 +80,11 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ### Conference papers
 
+3. D. Petniunas, **G. Iturra-Bocaz** and P. Galuščáková RAG in the Aerospace Domain: A Comprehensive Retrieval, Generation, and User Evaluation for NASA Documentation. Proceedings of 2026 Northern Lights Deep Learning Conference (NLDL), Tromsø, Norway (soon).
+
 2. **G. Iturra-Bocaz**, D. Vo and P. Galuščáková [Impact of Shallow vs. Deep Relevance Judgments on BERT-based Reranking Models](https://dl.acm.org/doi/10.1145/3731120.3744602). Proceedings of the 2025 International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR) (ICTIR 2025), Padua, Italy. Association for Computing Machinery. DOI:10.1145/3731120.3744602 ([pdf](https://giturra.cl/publications/ictir2025.pdf))([poster](https://giturra.cl/documents/posters/ictir2025.pdf)).
 
-3. **G. Iturra-Bocaz** and F. Bravo-Marquez [RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Stream](https://dl.acm.org/doi/10.1145/3539618.3591908). In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), Taipei, Taiwan. Association for Computing Machinery. Pages 3027–3036. DOI:10.1145/3539618.3591908 ([pdf](https://giturra.cl/publications/rivertext.pdf))([poster](https://giturra.cl/documents/posters/sigir2023.pdf)).
+1. **G. Iturra-Bocaz** and F. Bravo-Marquez [RiverText: A Python Library for Training and Evaluating Incremental Word Embeddings from Text Data Stream](https://dl.acm.org/doi/10.1145/3539618.3591908). In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), Taipei, Taiwan. Association for Computing Machinery. Pages 3027–3036. DOI:10.1145/3539618.3591908 ([pdf](https://giturra.cl/publications/rivertext.pdf))([poster](https://giturra.cl/documents/posters/sigir2023.pdf)).
 
 
 ### Workshop papers
@@ -120,6 +122,7 @@ task 3 on fact-checking numerical claims ([pdf](https://giturra.cl/publications/
 
 ## Talks and Workshops
 
+* [November 2025] [Language Agents for Information Retrieval](slides/nobim2025.pdf), [NOBIM 2025](https://www.nobim.no/nobim2025) at NTNU, Gjøvik, Norway. 
 * [July 2025] Poster Presentation Impact of Shallow vs. Deep Relevance Judgments on BERT-based Reranking Models in [Proceedings of the 2025 International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR) (ICTIR 2025)](https://ictir2025.cs.umass.edu/), Padua, Italy.
 * [January 2024] Workshop on Disinformation in Social Media: How to Protect Yourself from Deception for Seniors, Requinoa and Olivar, Chile ([slides](documents/Taller-PME.pdf) in Spanish).
 * [September 2023] Poster presentation RiverText: A Framework for Training and Evaluating Incremental Word Embeddings from Text Data Streams, The first Postgraduate Symposium at the Faculty of Math and Physics Sciences from the University of Chile, Santiago, Chile ([Certificate of Attendance](https://giturra.cl/documents/FCFM-Participate-Certificate.pdf)).
@@ -158,4 +161,4 @@ task 3 on fact-checking numerical claims ([pdf](https://giturra.cl/publications/
 
 Gabriel Iturra-Bocaz
 
-Stavanger, Norway October 11, 2025
+Stavanger, Norway November 8, 2025
