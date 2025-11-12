@@ -122,6 +122,10 @@ task 3 on fact-checking numerical claims ([pdf](https://giturra.cl/publications/
 * [2023] SIGIR Student Travel Grant to attend the [2023 SIGIR International Conference on Information Retrieval](https://sigir.org/sigir2023/) in Taipei, Taiwan.
 * [2016] Outstading Student in 2016.
 
+## Shared Task Organisation
+
+* Co-organizer of the [LongEval-2026](https://clef2026.clef-initiative.eu/labs/longeval/) Task 4: Temporal RAG queries.
+
 ## Talks and Workshops
 
 * [November 2025] [Language Agents for Information Retrieval](slides/nobim2025.pdf), [NOBIM 2025](https://www.nobim.no/nobim2025) at NTNU, Gjøvik, Norway. 
