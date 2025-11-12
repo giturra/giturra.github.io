@@ -124,7 +124,7 @@ task 3 on fact-checking numerical claims ([pdf](https://giturra.cl/publications/
 
 ## Shared Task Organisation
 
-* Co-organizer of the [LongEval-2026](https://clef2026.clef-initiative.eu/labs/longeval/) Task 4: Temporal RAG queries.
+* Co-organizer of the [LongEval-2026](https://clef-longeval.github.io/tasks/) Task 4: LongEval‑RAG (Retrieval Augmented Generation).
 
 ## Talks and Workshops
 
