@@ -42,7 +42,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ### Conference papers
 
-3. D. Petniunas, **G. Iturra-Bocaz** and P. Galuščáková RAG in the Aerospace Domain: A Comprehensive Retrieval, Generation, and User Evaluation for NASA Documentation. Proceedings of 2026 Northern Lights Deep Learning Conference (NLDL), Tromsø, Norway (soon).
+3. D. Petniunas, **G. Iturra-Bocaz** and P. Galuščáková [RAG in the Aerospace Domain: A Comprehensive Retrieval, Generation, and User Evaluation for NASA Documentation](https://openreview.net/forum?id=RPWfbmZFdO#discussion). Proceedings of 2026 Northern Lights Deep Learning Conference (NLDL), Tromsø, Norway (soon).
 
 2. **G. Iturra-Bocaz**, D. Vo and P. Galuščáková [Impact of Shallow vs. Deep Relevance Judgments on BERT-based Reranking Models](https://dl.acm.org/doi/10.1145/3731120.3744602). Proceedings of the 2025 International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR) (ICTIR 2025), Padua, Italy. Association for Computing Machinery. DOI:10.1145/3731120.3744602 ([pdf](https://giturra.cl/publications/ictir2025.pdf))([poster](https://giturra.cl/documents/posters/ictir2025.pdf)).
 
