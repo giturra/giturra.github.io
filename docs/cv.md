@@ -67,9 +67,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 * Volunteer at [Pint of Science](https://pintofscience.com/), Stavanger, Norway (2025 - present).
 * Faculty Representative for the [Faculty of Science and Technology](https://www.uis.no/en/about-uis/faculty-of-science-and-technology) (TN) at UiS (Jan 2026 - Jul 2026).
-* [WASSA'26](https://workshop-wassa.github.io/) PC member, reviewer (Jan 2026).
-* [ECIR'26](https://ecir2026.eu/) Short and Resource papers PC member, reviewer (Nov 2025).
-* [WASSA'24](https://workshop-wassa.github.io/2024/) PC member, reviewer (Jan 2024).
+* PC member, reviewer: [WASSA'26](https://workshop-wassa.github.io/), [WASSA'24](https://workshop-wassa.github.io/2024/), [ECIR'26](https://ecir2026.eu/), [WWW'26](https://www2026.thewebconf.org/).
 * Journal Referee at Nature’s Scientific Reports ([Certificate](https://giturra.cl/documents/reviewer.pdf)).
 
 ## Short Courses
