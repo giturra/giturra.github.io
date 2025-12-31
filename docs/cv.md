@@ -44,7 +44,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 4. **G. Iturra-Bocaz** Metacognitive Multi-Agent Retrieval-Augmented Generation for Multi-Hop Reasoning. European Conference on Information Retrieval, Delft, Netherlands, 2026 (soon).
 
-3. D. Petniunas, **G. Iturra-Bocaz** and P. Galuščáková [RAG in the Aerospace Domain: A Comprehensive Retrieval, Generation, and User Evaluation for NASA Documentation](https://openreview.net/forum?id=RPWfbmZFdO#discussion). Proceedings of 2026 Northern Lights Deep Learning Conference (NLDL), Tromsø, Norway ([pdf](https://giturra.cl/publications/ictir2025.pdf)).
+3. D. Petniunas, **G. Iturra-Bocaz** and P. Galuščáková [RAG in the Aerospace Domain: A Comprehensive Retrieval, Generation, and User Evaluation for NASA Documentation](https://openreview.net/forum?id=RPWfbmZFdO#discussion). Proceedings of 2026 Northern Lights Deep Learning Conference (NLDL), Tromsø, Norway ([pdf](https://giturra.cl/publications/nldl2026.pdf)).
 
 2. **G. Iturra-Bocaz**, D. Vo and P. Galuščáková [Impact of Shallow vs. Deep Relevance Judgments on BERT-based Reranking Models](https://dl.acm.org/doi/10.1145/3731120.3744602). Proceedings of the 2025 International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR) (ICTIR 2025), Padua, Italy. Association for Computing Machinery. DOI:10.1145/3731120.3744602 ([pdf](https://giturra.cl/publications/ictir2025.pdf))([poster](https://giturra.cl/documents/posters/ictir2025.pdf)).
 
@@ -52,9 +52,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ### Workshop papers
 
-1. Venktesh, V., Setty, V., Anand, A., Hasanain, M., Bendou, B., Bouamor, H., Alam,
-F., **Iturra-Bocaz, G.**, Galuščáková, P.: Overview of the CLEF-2025 CheckThat! lab
-task 3 on fact-checking numerical claims ([pdf](https://giturra.cl/publications/clef2025.pdf)).
+1. Venktesh, V., Setty, V., Anand, A., Hasanain, M., Bendou, B., Bouamor, H., Alam, F., **Iturra-Bocaz, G.**, Galuščáková, P.: Overview of the CLEF-2025 CheckThat! lab task 3 on fact-checking numerical claims ([pdf](https://giturra.cl/publications/clef2025.pdf)).
 
 2. Łajewska, W., Kostric, I., **Iturra-Bocaz, G.**, Arustashvili, M., & Balog, K. (2025). [UiS-IAI@LiveRAG: Retrieval-Augmented Information Nugget-Based Generation of Responses](https://arxiv.org/abs/2506.22210). arXiv preprint arXiv:2506.22210 ([pdf](https://giturra.cl/publications/liverag2025.pdf)).
 

@@ -90,7 +90,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 
 
-3. D. Petniunas, **G. Iturra-Bocaz** and P. Galuščáková [RAG in the Aerospace Domain: A Comprehensive Retrieval, Generation, and User Evaluation for NASA Documentation](https://openreview.net/forum?id=RPWfbmZFdO#discussion). Proceedings of 2026 Northern Lights Deep Learning Conference (NLDL), Tromsø, Norway ([pdf](https://giturra.cl/publications/ictir2025.pdf)).
+3. D. Petniunas, **G. Iturra-Bocaz** and P. Galuščáková [RAG in the Aerospace Domain: A Comprehensive Retrieval, Generation, and User Evaluation for NASA Documentation](https://openreview.net/forum?id=RPWfbmZFdO#discussion). Proceedings of 2026 Northern Lights Deep Learning Conference (NLDL), Tromsø, Norway ([pdf](https://giturra.cl/publications/nldl2026.pdf)).
 
 
 
@@ -106,11 +106,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 
 
-1. Venktesh, V., Setty, V., Anand, A., Hasanain, M., Bendou, B., Bouamor, H., Alam,
-
-F., **Iturra-Bocaz, G.**, Galuščáková, P.: Overview of the CLEF-2025 CheckThat! lab
-
-task 3 on fact-checking numerical claims ([pdf](https://giturra.cl/publications/clef2025.pdf)).
+1. Venktesh, V., Setty, V., Anand, A., Hasanain, M., Bendou, B., Bouamor, H., Alam, F., **Iturra-Bocaz, G.**, Galuščáková, P.: Overview of the CLEF-2025 CheckThat! lab task 3 on fact-checking numerical claims ([pdf](https://giturra.cl/publications/clef2025.pdf)).
 
 
 
