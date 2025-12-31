@@ -42,7 +42,9 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ### Conference papers
 
-3. D. Petniunas, **G. Iturra-Bocaz** and P. Galuščáková [RAG in the Aerospace Domain: A Comprehensive Retrieval, Generation, and User Evaluation for NASA Documentation](https://openreview.net/forum?id=RPWfbmZFdO#discussion). Proceedings of 2026 Northern Lights Deep Learning Conference (NLDL), Tromsø, Norway (soon).
+4. **G. Iturra-Bocaz** Metacognitive Multi-Agent Retrieval-Augmented Generation for Multi-Hop Reasoning. European Conference on Information Retrieval, Delft, Netherlands, 2026 (soon).
+
+3. D. Petniunas, **G. Iturra-Bocaz** and P. Galuščáková [RAG in the Aerospace Domain: A Comprehensive Retrieval, Generation, and User Evaluation for NASA Documentation](https://openreview.net/forum?id=RPWfbmZFdO#discussion). Proceedings of 2026 Northern Lights Deep Learning Conference (NLDL), Tromsø, Norway ([pdf](https://giturra.cl/publications/ictir2025.pdf)).
 
 2. **G. Iturra-Bocaz**, D. Vo and P. Galuščáková [Impact of Shallow vs. Deep Relevance Judgments on BERT-based Reranking Models](https://dl.acm.org/doi/10.1145/3731120.3744602). Proceedings of the 2025 International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR) (ICTIR 2025), Padua, Italy. Association for Computing Machinery. DOI:10.1145/3731120.3744602 ([pdf](https://giturra.cl/publications/ictir2025.pdf))([poster](https://giturra.cl/documents/posters/ictir2025.pdf)).
 
@@ -60,6 +62,7 @@ task 3 on fact-checking numerical claims ([pdf](https://giturra.cl/publications/
 
 ## Teaching
 
+* [DAT560] (TA) Generative AI (Autumn 2026), Department of Computer Science and Electrical Engineering, University of Stavanger.
 * [MDS7202] (Lecturer) [Data Science Laboratory](https://github.com/MDS7202/MDS7202/) (spring 2023, spring 2025), Postgraduate School, University of Chile.
 * [CC5205] (Lecturer) [Data Mining](https://github.com/dccuchile/CC5205/) (fall 2024), Department of Computer Science, University of Chile.
 * [CC66E] (Lecturer) [Data Mining] (fall 2024),  Continual Education Program,  Department of Computer Science, University of Chile.
@@ -96,6 +99,7 @@ task 3 on fact-checking numerical claims ([pdf](https://giturra.cl/publications/
 
 ## Supervision
 
+* [2026 (Ongoing)] Eirik Wihelmsen, co-supervised with Petra Galuscakova, Master in Computer Science, University of Stavanger.
 * [2025] Dominykas Petniunas, co-supervised with Petra Galuscakova, Master in Computer Science, University of Stavanger.
 
 ## Books
