@@ -42,7 +42,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ### Conference papers
 
-4. **G. Iturra-Bocaz** Metacognitive Multi-Agent Retrieval-Augmented Generation for Multi-Hop Reasoning. European Conference on Information Retrieval, Delft, Netherlands, 2026 (soon).
+4. **G. Iturra-Bocaz** Metacognitive Multi-Agent Retrieval-Augmented Generation for Multi-Hop Reasoning. European Conference on Information Retrieval, Delft, Netherlands, 2026 ([pdf](https://giturra.cl/publications/ecir2026.pdf)).
 
 3. D. Petniunas, **G. Iturra-Bocaz** and P. Galuščáková [RAG in the Aerospace Domain: A Comprehensive Retrieval, Generation, and User Evaluation for NASA Documentation](https://openreview.net/forum?id=RPWfbmZFdO#discussion). Proceedings of 2026 Northern Lights Deep Learning Conference (NLDL), Tromsø, Norway ([pdf](https://giturra.cl/publications/nldl2026.pdf)).
 
@@ -86,7 +86,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 * Faculty Representative for the [Faculty of Science and Technology](https://www.uis.no/en/about-uis/faculty-of-science-and-technology) (TN) at UiS (Jan 2026 - Jul 2026).
 * Volunteer at [Pint of Science](https://pintofscience.com/), Stavanger, Norway (2025 - present).
-* PC member, reviewer and subreviewer: [WASSA'26](https://workshop-wassa.github.io/), [WASSA'24](https://workshop-wassa.github.io/2024/), [ECIR'26](https://ecir2026.eu/), [WWW'26](https://www2026.thewebconf.org/).
+* PC member, reviewer and subreviewer: [SIGIR'26](https://sigir2026.org/en-AU), [WASSA'26](https://workshop-wassa.github.io/), [WASSA'24](https://workshop-wassa.github.io/2024/), [ECIR'26](https://ecir2026.eu/), [WWW'26](https://www2026.thewebconf.org/).
 * Journal Referee at Nature’s Scientific Reports ([Certificate](https://giturra.cl/documents/reviewer.pdf)).
 
 ## Short Courses
