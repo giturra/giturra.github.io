@@ -44,7 +44,10 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 4. **G. Iturra-Bocaz** Metacognitive Multi-Agent Retrieval-Augmented Generation for Multi-Hop Reasoning. European Conference on Information Retrieval, Delft, Netherlands, 2026 ([pdf](https://giturra.cl/publications/ecir2026.pdf)).
 
-3. D. Petniunas, **G. Iturra-Bocaz** and P. Galuščáková [RAG in the Aerospace Domain: A Comprehensive Retrieval, Generation, and User Evaluation for NASA Documentation](https://openreview.net/forum?id=RPWfbmZFdO#discussion). Proceedings of 2026 Northern Lights Deep Learning Conference (NLDL), Tromsø, Norway ([pdf](https://giturra.cl/publications/nldl2026.pdf)).
+Petniunas, D., Iturra-Bocaz, G. &amp; Galuscakova, P.. (2026). RAG in the Aerospace Domain: A Comprehensive Retrieval, Generation, and User Evaluation for NASA Documentation. <i>Proceedings of the 7th Northern Lights Deep Learning Conference (NLDL)</i>, in <i>Proceedings of Machine Learning Research</i> 307:345-357 Available from https://proceedings.mlr.press/v307/petniunas26a.html.
+
+
+3. Petniunas, D., **Iturra-Bocaz, G.**, & Galuscakova, P. (2026, January). [RAG in the Aerospace Domain: A Comprehensive Retrieval, Generation, and User Evaluation for NASA Documentation](https://proceedings.mlr.press/v307/petniunas26a.html). In Northern Lights Deep Learning Conference (pp. 345-357). PMLR. ([pdf](https://giturra.cl/publications/nldl2026.pdf)).
 
 2. **G. Iturra-Bocaz**, D. Vo and P. Galuščáková [Impact of Shallow vs. Deep Relevance Judgments on BERT-based Reranking Models](https://dl.acm.org/doi/10.1145/3731120.3744602). Proceedings of the 2025 International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR) (ICTIR 2025), Padua, Italy. Association for Computing Machinery. DOI:10.1145/3731120.3744602 ([pdf](https://giturra.cl/publications/ictir2025.pdf))([poster](https://giturra.cl/documents/posters/ictir2025.pdf)).
 
