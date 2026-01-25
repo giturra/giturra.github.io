@@ -90,12 +90,6 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 
 
-Petniunas, D., Iturra-Bocaz, G. &amp; Galuscakova, P.. (2026). RAG in the Aerospace Domain: A Comprehensive Retrieval, Generation, and User Evaluation for NASA Documentation. <i>Proceedings of the 7th Northern Lights Deep Learning Conference (NLDL)</i>, in <i>Proceedings of Machine Learning Research</i> 307:345-357 Available from https://proceedings.mlr.press/v307/petniunas26a.html.
-
-
-
-
-
 3. Petniunas, D., **Iturra-Bocaz, G.**, & Galuscakova, P. (2026, January). [RAG in the Aerospace Domain: A Comprehensive Retrieval, Generation, and User Evaluation for NASA Documentation](https://proceedings.mlr.press/v307/petniunas26a.html). In Northern Lights Deep Learning Conference (pp. 345-357). PMLR. ([pdf](https://giturra.cl/publications/nldl2026.pdf)).
 
 
