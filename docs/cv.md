@@ -86,7 +86,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 * Faculty Representative for the [Faculty of Science and Technology](https://www.uis.no/en/about-uis/faculty-of-science-and-technology) (TN) at UiS (Jan 2026 - Jul 2026).
 * Volunteer at [Pint of Science](https://pintofscience.com/), Stavanger, Norway (2025 - present).
-* PC member, reviewer and subreviewer: [SIGIR'26](https://sigir2026.org/en-AU), [WASSA'26](https://workshop-wassa.github.io/), [WASSA'24](https://workshop-wassa.github.io/2024/), [ECIR'26](https://ecir2026.eu/), [WWW'26](https://www2026.thewebconf.org/), [SIGKDD](https://kdd2026.kdd.org/).
+* PC member, reviewer and subreviewer: [SIGIR'26](https://sigir2026.org/en-AU), [WASSA'26](https://workshop-wassa.github.io/), [WASSA'24](https://workshop-wassa.github.io/2024/), [ECIR'26](https://ecir2026.eu/), [WWW'26](https://www2026.thewebconf.org/), [SIGKDD'26](https://kdd2026.kdd.org/).
 * Journal Referee at Nature’s Scientific Reports ([Certificate](https://giturra.cl/documents/reviewer.pdf)).
 
 ## Short Courses
@@ -95,7 +95,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 * [NORA Summer Research School](https://www.nora.ai/nora-research-school/education-programs/summer-school/summer-school-2025/), Generative AI for Synthetic Data: Applications in Machine Learning (5 ECTS), 10-14 June, 2025, Østfold University, Campus Fredrikstad, Norway. 
 
-* [The International Summer School on Generative AI](https://intelligent-systems.net/school/) From NLP to LLMs to Agentic AI: Theory, Applications, and Practice (5 ECTS), 22-26 June, 2026, Sapienza Università di Roma, Rome, Italy.
+* [The International Summer School on Generative AI](https://intelligent-systems.net/school/), From NLP to LLMs to Agentic AI: Theory, Applications, and Practice (5 ECTS), 22-26 June, 2026, Sapienza Università di Roma, Rome, Italy.
 
 ## Supervision
 
