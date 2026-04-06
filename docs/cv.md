@@ -42,7 +42,7 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ### Conference papers
 
-1. **G. Iturra-Bocaz** and P. Galuščáková A Replicability Study of Metacognitive Retrieval-Augmented Generation. In Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), Melbourne, Australia. Association for Computing Machinery. ([pdf](https://giturra.cl/publications/sigir2026.pdf)).
+1. **G. Iturra-Bocaz** and P. Galuščáková A Replicability Study of Metacognitive Retrieval-Augmented Generation. In Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026), Melbourne, Australia. Association for Computing Machinery. ([pdf](https://giturra.cl/publications/sigir2026.pdf)).
 
 2. T. Breuer, M. Cancellieri, A. El-Ebshihy, M. Frobe, P. Galuščáková, L. Goeuriot, **G. Iturra-Bocaz**, J. Keller
 , P. Knoth, A. Konstantin Kruff, P. Mulhem, F. Piroi, D. Pride, P. Schaer, and D. Schwab [Evaluating Information Retrieval Models Along Time: The LongEval Lab at CLEF 2026](https://link.springer.com/chapter/10.1007/978-3-032-21321-1_45) Delft, Netherlands, 2026. Advances in Information Retrieval. Pages 544-549. DOI:10.1007/978-3-032-21321-1_45 ([pdf](https://giturra.cl/publications/ecir2026_longeval.pdf))
