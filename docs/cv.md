@@ -123,8 +123,9 @@ Large Language Models (LLMs) are significant deep learning models trained on vas
 
 ## Awards
 
+* [2026] SIGIR Student Travel Grant to attend the [49th SIGIR International Conference on Information Retrieval](https://sigir2026.org/en-AU) in Melbourne, Australia.
 * [2024 - 2027] University of Stavanger Doctoral Scholarship. 
-* [2023] SIGIR Student Travel Grant to attend the [2023 SIGIR International Conference on Information Retrieval](https://sigir.org/sigir2023/) in Taipei, Taiwan.
+* [2023] SIGIR Student Travel Grant to attend the [46th SIGIR International Conference on Information Retrieval](https://sigir.org/sigir2023/) in Taipei, Taiwan.
 * [2016] Outstading Student in 2016.
 
 ## Shared Task Organisation
