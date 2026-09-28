@@ -1,0 +1,9 @@
+# Bio
+
+## English
+
+Gabriel Iturra-Bocaz is a Chilean researcher and PhD student in Computer Science at the University of Stavanger, Norway, specializing in machine learning and natural language processing, with a particular focus on continual learning and data stream mining. He holds a Bachelor’s and Master’s degree in Computer Science from the University of Chile, where he developed RiverText, a framework for training and evaluating incremental word embeddings from text data streams, work that was published at SIGIR 2023. Currently, as a doctoral student, Gabriel’s research focuses on developing efficient and adaptive methods and tools for processing large-scale textual data in real-time, aiming to advance the state of the art in language models and information retrieval in dynamic and evolving environments.
+
+## Spanish
+
+Gabriel Iturra-Bocaz es un investigador chileno y estudiante de doctorado en Computer Science en la University of Stavanger, Noruega, donde se especializa en aprendizaje automático y procesamiento de lenguaje natural, con un enfoque particular en aprendizaje continuo y minería de datos en flujos. Su trayectoria académica comenzó en la Universidad de Chile, donde obtuvo el título de Ingeniero y Magíster en Ciencias de la Computación, desarrollando el marco RiverText para entrenar y evaluar incrustaciones de palabras incrementales a partir de flujos de datos de texto, trabajo que fue publicado en SIGIR 2023. Actualmente, como estudiante de doctorado, Gabriel centra su investigación en el desarrollo de métodos y herramientas para el procesamiento eficiente y adaptativo de grandes volúmenes de datos textuales en tiempo real, buscando avanzar el estado del arte en modelos de lenguaje y recuperación de información en escenarios dinámicos y cambiantes.

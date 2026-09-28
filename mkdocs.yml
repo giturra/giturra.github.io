@@ -1,0 +1,60 @@
+site_name: Gabriel Iturra-Bocaz
+
+theme: 
+    name: material
+    palette:
+        primary: blue
+    highlightjs: true
+    hljs_languages:
+        - yaml
+    features:
+        - navigation.footer
+        
+extra_css:
+  - css/stylesheet.css
+
+site_url: https://giturra.cl 
+
+plugins:
+  - blog:
+      blog_dir: blog
+
+site_description: Personal Webpage of Gabriel Iturra-Bocaz
+nav:
+    - Home: index.md
+    - News: news.md
+    - Bio: bio.md
+    - CV: 
+        - 'Web Format': cv.md
+        - 'Full CV PDF': 'documents/cv_full.pdf'
+        - 'Short CV PDF': 'documents/short_cv.pdf'
+
+    - Blog: blog.md
+
+copyright: Copyright &copy; 2021 - 2025 Gabriel Iturra-Bocaz
+
+extra:
+  social:
+        - icon: fontawesome/brands/github
+          link: https://github.com/giturra
+        - icon: fontawesome/brands/linkedin 
+          link: https://www.linkedin.com/in/giturra/
+        - icon: fontawesome/brands/x-twitter
+          link: https://twitter.com/g_iturrab
+        - icon: fontawesome/brands/instagram
+          link: https://www.instagram.com/ilovethedoggos1/
+  generator: false
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg

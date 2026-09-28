@@ -1,0 +1,4 @@
+.md-header__button .md-logo img {
+    max-height: 100px !important; /* O el tamaño que prefieras */
+    width: 100px !important; /* Para mantener la proporción */
+}
