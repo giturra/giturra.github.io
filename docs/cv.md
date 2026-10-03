@@ -95,6 +95,7 @@ I am a Ph.D. researcher in Computer Science at the University of Stavanger, work
 * Vice president at [Universitetet i Stavanger Doctoral Community (UiSDC)](https://www.uis.no/en/research/uis-doctoral-community-uisdc) (July 2026 - present).
 * Faculty Representative for the [Faculty of Science and Technology](https://www.uis.no/en/about-uis/faculty-of-science-and-technology) (TN) at UiS (Jan 2026 - present).
 * Volunteer at [Pint of Science](https://pintofscience.com/), Stavanger, Norway (2025 - present).
+* Student Volunteer at [SIGIR'26](https://sigir2026.org/en-AU/pages/information/student-volunteers).
 * PC member, reviewer and subreviewer: [ECIR'27](https://www.ecir2027.co.uk/), [SIGKDD'27](https://kdd2027.kdd.org/), [SIGIR'26](https://sigir2026.org/en-AU), [WASSA'26](https://workshop-wassa.github.io/), [WASSA'24](https://workshop-wassa.github.io/2024/), [ECIR'26](https://ecir2026.eu/), [WWW'26](https://www2026.thewebconf.org/), [SIGKDD'26](https://kdd2026.kdd.org/).
 * Journal Referee at Nature’s Scientific Reports ([Certificate](https://giturra.cl/documents/reviewer.pdf)).
 
